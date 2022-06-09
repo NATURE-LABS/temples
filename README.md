@@ -53,15 +53,16 @@ python generatetempledata.py
 
 Contact 
 --------
-Kyndryl GCP Guild Moderator : Ramamurthy V 
-Email           :  ramamurthy.valavandan@kyndryl.com
-GCP Contact     : gcpguild@gmail.com
-Date            : June 8 2022.
-Contributors    : 42 key members from GCP Guild.
+### Kyndryl GCP Guild Moderator : Ramamurthy V 
+#### Email           :  ramamurthy.valavandan@kyndryl.com
+#### GCP Contact     : gcpguild@gmail.com
+#### Date            : June 8 2022.
+#### Contributors    : 42 key members from GCP Guild.
 """
 
 ## Contributors
-Kyndryl GCP Guild Members
+
+### Kyndryl GCP Guild Members
 
 
 ## License
