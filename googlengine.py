@@ -69,7 +69,7 @@ soup = BeautifulSoup(website.content, 'html.parser')
 
 bese= soup.prettify()
 
-#print(bese)
+
 lt = "&lt;"
 gt = "&gt;"
 
