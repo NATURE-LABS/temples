@@ -14,7 +14,7 @@ The Temple project requires the pre-requirements
 + [checkmodule.py](https://github.com/NATURE-LABS/temples/blob/main/checkmodule.py)
 + [initialization.py](https://github.com/NATURE-LABS/temples/blob/main/initialization.py)
 + [googlengine.py](https://github.com/NATURE-LABS/temples/blob/main/googlengine.py)
-+ [generatetempledata.py](https://github.com/NATURE-LABS/temples/blob/main/generatetempledata.py)
++ [googlegeneratetempledata.py](https://github.com/NATURE-LABS/temples/blob/main/googlegeneratetempledata.py)
 + [templesview.py](https://github.com/NATURE-LABS/temples/blob/main/templesview.py)
 + [Temples.ipynb](https://github.com/NATURE-LABS/temples/blob/main/Temples.ipynb)
 + [Required Modules Document](https://github.com/NATURE-LABS/temples/blob/main/Check%20the%20required%20modules.docx)
