@@ -31,7 +31,7 @@ The Package required **Pre Requirements**
 India Temples data is collected by Google Cloud Platform (GCP) by Compute Engine, GKE, Big Query, Storage, Work load migration.
 The website and GCP project is managed and maintated by Kyndryl Project GCP Guild Lab, **Nature Labs** 
 
-## Googkle Connect 
+## Google Connect 
 """
 Purpose : Google Connect is a utility to connect to the Google Search Engine.
 Generate the csv data based on the search query given in the argument.
