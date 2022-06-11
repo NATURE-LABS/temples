@@ -49,7 +49,7 @@ if (arglen != 2):
     p = ("{} {}".format(pi,exampleurl))
     prt(p)
     pi="python "
-    p = ("{} {}".format(pi,exampleurl))
+    p = ("{} {} {}".format(pi,pythoncode, exampleurl))
     prt(p)
     exit(1)
 
