@@ -41,7 +41,7 @@ def prt(p):
     print('┗' + "━"*width + "┛")
 
 arglen =  len(sys.argv)
-exampleurl = "https://www.google.com/search?q='popular hindu temples tamil nadu'"
+exampleurl = "https://www.googlengine.com/tnt"
 
 
 if (arglen != 2):
@@ -67,18 +67,17 @@ genfile = ("{}{}{}{}{}{}{}{}{}".format(basepath,N,codepath,N,function,N,"data",N
 website = requests.get(searchpg)
 soup = BeautifulSoup(website.content, 'html.parser')
 
-if (soup.title is not None):
-    title = soup.title.string
-
-
 bese= soup.prettify()
 
-
+#print(bese)
 lt = "&lt;"
 gt = "&gt;"
 
 bese = re.sub(lt, '<', bese)
 bese = re.sub(gt, '>', bese)
+
+mano = []
+
 patent = ("{}{}{}".format('<h3>', "([^$]*)", '</h3>'))
 
 bese = re.findall(patent, str(bese))
@@ -90,7 +89,6 @@ bese = re.sub('<h3>', '', str(bese))
 bese = re.sub('</h3>', ',', str(bese))
 bese = re.sub('[^A-Za-z|,]+', ' ' , str(bese))
 
-mano = []
 
 mano = [ x.strip() for x in bese.strip('[]').split(',') ]
 
@@ -98,6 +96,7 @@ mano = [ x.strip() for x in bese.strip('[]').split(',') ]
 gencsv = pd.DataFrame(mano)
 
 gencsv.to_csv(genfile, index=False, header = False, na_rep='Unknown')
+
 
 pi="\'Temple Data sheet is generated .. !  \' :"
 p = ("{} {}".format(pi,genfile))
