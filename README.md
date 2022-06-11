@@ -13,7 +13,7 @@ Temple project is show case the abilities of Kydryl Solutions Private Limited, G
 The Temple project requires the pre-requirements
 + [checkmodule.py](https://github.com/NATURE-LABS/temples/blob/main/checkmodule.py)
 + [initialization.py](https://github.com/NATURE-LABS/temples/blob/main/initialization.py)
-+ [googledata.py](https://github.com/NATURE-LABS/temples/blob/main/googlengine.py)
++ [googlengine.py](https://github.com/NATURE-LABS/temples/blob/main/googlengine.py)
 + [generatetempledata.py](https://github.com/NATURE-LABS/temples/blob/main/generatetempledata.py)
 + [templesview.py](https://github.com/NATURE-LABS/temples/blob/main/templesview.py)
 + [Temples.ipynb](https://github.com/NATURE-LABS/temples/blob/main/Temples.ipynb)
