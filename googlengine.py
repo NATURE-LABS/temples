@@ -90,7 +90,7 @@ bese = re.sub('</h3>', ',', str(bese))
 bese = re.sub('[^A-Za-z|,]+', ' ' , str(bese))
 
 
-mano = sorted([ x.strip() for x in bese.strip('[]').split(',') ])
+mano = [ x.strip() for x in bese.strip('[]').split(',') ]
 
 
 gencsv = pd.DataFrame(mano)
