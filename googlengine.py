@@ -9,7 +9,7 @@ Project Team : Google Cloud Platform - Guild.
 Lab : Nature Labs @ GCP
 How to use
 ------------
-python googledata.py http://www.walkthroughindia.com/hindu-temple/top-25-popular-hindu-temples-tamil-nadu/
+python googlengine.py https://www.googlengine.com/tnt
 
 Contact 
 --------
@@ -73,7 +73,7 @@ if (soup.title is not None):
 
 bese= soup.prettify()
 
-#print(bese)
+
 lt = "&lt;"
 gt = "&gt;"
 
