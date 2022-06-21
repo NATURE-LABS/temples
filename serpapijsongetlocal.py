@@ -1,27 +1,59 @@
 """
-Purpose : After conneting to Google Search Engine API the JSON is generated
-This program parse the JSON file based on the Google Search Engine.
-Generate the csv data based on the search query given in the argument.
-The demonstrated program generate the datasheet in  a format in CSV.
+Google Engine Search by SerpAPI 
+Python : Create the Google search JSON.
+
+Project contact: GCP Guild moderator, Kyndryl
+Email: Ramamurthy.valavandan@kyndryl.com
+Python API for Google Search Engine
+Use Case: Creating the Temples List, Description of Temple, Co-ordinates, Distances from major cities in India.
+
+Purpose : After connecting to Google Search Engine API the JSON is generated
+This program is used to connect Google Search API (SerpAPI) 
+Download the searched information which is saved in the JSON file based on the Google Search Engine.
+Create the necessary folders in local and download and save JSON for locally parse the search key.
+---------------------------------------------------------------------------------------------------
+SerpAPI Sponsorship
+Google Engine is sponsored by SerpApi. SerApi has sponsored 40,000 credits for Google search
+with the API Key for scraping Google and other search engines.
+
+On behalf of Google Engine, researchers, we express our gratitude to SerpAPI LLC, for provisioning
+their sponsorship SerpAPI's sponsorship has helped us make our research and social work contribution 
+for speaking out greater audience.
+With the advent of SerpAPI, Google Engine has addressed our research work on Temples in India 
+with the experience of a blazingly fast, super easy to use, and data-rich API in 
+Google Cloud Platform Search Engine on Big Query for Research in Google Cloud Engine. 
+With SerpAPI, Google Engine will be helping the student community on projects.
+
+About SerpApi
+-------------
+SERP API is a real-time API to access Google search results. 
+It solves the issues of having to rent proxies, solving captchas, and JSON parsing.
 
 Design and developed by :
+-------------------------
 Kyndryl Solutions Private Limited
 Project Team : Google Cloud Platform - Guild.
-Lab : Nature Labs @ GCP
+Lab : Google Engine @ SerApi, LLC.
+
+Download from Git Hub
+
+https://github.com/NATURE-LABS/temples/blob/main/serpapijsongetlocal.py
+
 How to use
 ------------
-python serpapiparse.py 
+python serpapijsongetlocal.py 
 
 Contact 
 --------
-Kyndryl GCP Guild Moderator : Ramamurthy V 
-Email           :  ramamurthy.valavandan@kyndryl.com
-GCP Contact     : gcpguild@gmail.com
-Date            : June 21 2022.
-Contributors    : 42 key members from GCP Guild.
+Kyndryl GCP Guild Moderator: Ramamurthy V 
+Email: ramamurthy.valavandan@kyndryl.com
+GCP Contact: gcpguild@gmail.com
+Date: June 21, 2022.
+Contributors: 42 key members from GCP Guild.
+
 """
 
-api_key = "2f39b3c44b6e1181b068826f001adf0169950372126abd302bbb6f9de71ed7dc"
+#api_key = "2f39b3c44b6e1181b068826f001adf0169950372126abd302bbb6f9de71ed7dc"
 
 import json, re, csv, os
 from bs4 import BeautifulSoup
@@ -87,8 +119,6 @@ def statesutfile(sut):
     serpapisearchedjsontempledata = ''
     serpapisearchedjsontempledata = ("{}{}{}".format(cre_directory,N,indiafilepushtxt))
     return serpapisearchedjsontempledata
-
-
 
 indiatempledatadir = ("{}{}{}{}{}{}{}{}{}".format(basepath,N,codepath,N,function,N,namefile,N,"data"))
 
@@ -188,9 +218,6 @@ for statename in (sul):
     inputfile_google_json = ''
     inputfile_google_json = re.sub(r'^.+/([^/]+)$', r'\1', wbsearchengine)
 
-    #https://serpapi.com/searches/5b50d58a304bda2fca30bac9.json?api_key=2f39b3c44b6e1181b068826f001adf0169950372126abd302bbb6f9de71ed7dc
-    #wbsearchengine = ("{}{}{}".format(wbsearchengine,"?api_key=",api_key))
-    #print(wbsearchengine)
     
     check_serpapi_google_json = checkparasegoostutintemple(wbsearchengine)
 
@@ -228,7 +255,7 @@ for statename in (sul):
       pi ="JSON from SerpAPI.. "
       p = ("{} {}".format(pi, serpapisearchedjsontempledata))
       prt(p)
-      headers = {"api_key": api_key}
+      headers = {"api_key": os.getenv("API_KEY")}
       file_stream = requests.get(wbsearchengine, stream=True)
       resp = request(method="GET",url=wbsearchengine, headers=headers)
       #with open(serpapisearchedjsontempledata, 'wb') as local_file:
@@ -236,10 +263,3 @@ for statename in (sul):
       #    serpapisearchedjsontempledata.write(data)
       with open(serpapisearchedjsontempledata, "w") as my_file:
         my_file.write(resp.text)
-
-
-    
-    #creating directory --- start -- 
-    
-#creating directory --- sucessful ----- -- 
-
