@@ -51,9 +51,11 @@ GCP Contact: gcpguild@gmail.com
 Date: June 21, 2022.
 Contributors: 42 key members from GCP Guild.
 
+For SerpAPI Key request, please write an email request with an email subject of 'request for SerpApi Key'
+
+Email: ramamurthy.valavandan@kyndryl.com
 """
 
-#api_key = "2f39b3c44b6e1181b068826f001adf0169950372126abd302bbb6f9de71ed7dc"
 
 import json, re, csv, os
 from bs4 import BeautifulSoup
