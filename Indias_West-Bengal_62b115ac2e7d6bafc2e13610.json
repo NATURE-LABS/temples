@@ -1,0 +1,400 @@
+{
+  "search_metadata": {
+    "id": "62b115ac2e7d6bafc2e13610",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/86d897a66db73848/62b115ac2e7d6bafc2e13610.json",
+    "created_at": "2022-06-21 00:49:48 UTC",
+    "processed_at": "2022-06-21 00:49:48 UTC",
+    "google_url": "https://www.google.co.in/search?q=temples+West+Bengal&oq=temples+West+Bengal&uule=w+CAIQICIRV2VzdCBCZW5nYWwsSW5kaWE&hl=en&gl=in&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/86d897a66db73848/62b115ac2e7d6bafc2e13610.html",
+    "total_time_taken": 6.1
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "temples West Bengal",
+    "location_requested": "\"West Bengal, India\"",
+    "location_used": "West Bengal,India",
+    "google_domain": "google.co.in",
+    "hl": "en",
+    "gl": "in",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "temples West Bengal",
+    "total_results": 33900000,
+    "time_taken_displayed": 0.54
+  },
+  "inline_people_also_search_for": [
+    {
+      "title": "Famous temples of Bengal",
+      "items": [
+        {
+          "name": "Dakshines... Kali Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSmE7SJx2rrH-a1Lx0EmngYqtv3PdUKU-r4i2ko47-EglsjrltN59erKTY12eUMBEcXZjv3qh8s&s=19",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Dakshineswar+Kali+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDUxqIg3kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xIrSeYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMvPrp-oaGyaZJOWklKWkwE8qqUiqhCrOq4gtyCqGcigJjk-JiuHEWyUYwE9JzzIzKMsySfzFKuGG4GeK8BhbGRawSLonZxRmZeanF5YlFCt6JOZkKIWCFt9gkGUw_tjLFP2i_dvTo5rOT1VkmtQo6GHMYTasAAJnp50wVAQAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAB6BAhYEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Dakshineswar+Kali+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDUxqIg3kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xIrSeYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMvPrp-oaGyaZJOWklKWkwE8qqUiqhCrOq4gtyCqGcigJjk-JiuHEWyUYwE9JzzIzKMsySfzFKuGG4GeK8BhbGRawSLonZxRmZeanF5YlFCt6JOZkKIWCFt9gkGUw_tjLFP2i_dvTo5rOT1VkmtQo6GHMYTasAAJnp50wVAQAA"
+        },
+        {
+          "name": "Kalighat",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQj2FCBLgm5q5jo7hcq13bqZIWVti_2ROyHMJWKeT3CONxHjT1qFYSWaGox6l8I-lFS88uYTG4w&s=19",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Kalighat+Kali+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME7OSzLJNpJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXKC9JqaGFTEn2JEMgcqkZ5sXpELlTBJrig2LT7FyKufrm9omGyalJNWkpIGM6GsKqUSqjCrKr4gpxDKqSgwNikuhhtnkWwEMyE9x8yoLMMs-RejhBuGmyHOa2BhXMQq4p2Yk5mekViiAGIohIAV3WKTZDD92MoU_6D92tGjm89OVmeZ1CroYMxhNK0CAJ25Yb8SAQAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAF6BAhYEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Kalighat+Kali+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME7OSzLJNpJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXKC9JqaGFTEn2JEMgcqkZ5sXpELlTBJrig2LT7FyKufrm9omGyalJNWkpIGM6GsKqUSqjCrKr4gpxDKqSgwNikuhhtnkWwEMyE9x8yoLMMs-RejhBuGmyHOa2BhXMQq4p2Yk5mekViiAGIohIAV3WKTZDD92MoU_6D92tGjm89OVmeZ1CroYMxhNK0CAJ25Yb8SAQAA"
+        },
+        {
+          "name": "Hanseswari Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLhvtdGe9k1JWDzv_hHVN6jccwlCezqnRoHYo4OzVYDPw0cIqBMerQ&s=0",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Hangseshwari+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SE82r8g1kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xgrWamhhUxJ9i5AKxjZPzkkyyoRJgM6ESJskVxabFpxh59dP1DQ2TTZNy0kpS0mAmlFWlVEIVZlXFF-QUQjkVBcYmxcVw4yySjWAmpOeYGZVlmCX_YpRww3AzxHkNLIyLWIU9EvPSi1OLM8oTizIVQsBqbrFJMph-bGWKf9B-7ejRzWcnq7NMahV0MOYwmlYBAMLo7ukQAQAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAJ6BAhYEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Hangseshwari+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SE82r8g1kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xgrWamhhUxJ9i5AKxjZPzkkyyoRJgM6ESJskVxabFpxh59dP1DQ2TTZNy0kpS0mAmlFWlVEIVZlXFF-QUQjkVBcYmxcVw4yySjWAmpOeYGZVlmCX_YpRww3AzxHkNLIyLWIU9EvPSi1OLM8oTizIVQsBqbrFJMph-bGWKf9B-7ejRzWcnq7NMahV0MOYwmlYBAMLo7ukQAQAA"
+        },
+        {
+          "name": "Birla Mandir",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8Bp33r_Gp4v7LezlKrkWpb9pYIttdNv7Rj2iUiZjivvLHPmJgM_rw&s=0",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Birla+Mandir,+Kolkata&stick=H4sIAAAAAAAAAOOQUeLSz9U3MEmuKDYtNpJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXKC9JqaGFTEn2IEm2OcnJdkkg2VSE82r8iFSkAsOMXIq5-ub2iYbJqUk1aSkgYzoawqpRKqMKsqviCnEMqpKDA2KS6GG2eRbAQzIT3HzKgswyz5F6OEG4abIc5rYGFcxCrqlFmUk6jgm5iXklmko-Cdn5OdWJJ4i02SwfRjK1P8g_ZrR49uPjtZnWVSq6CDMYfRtAoA-i_ktxMBAAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAN6BAhYEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Birla+Mandir%2C+Kolkata&stick=H4sIAAAAAAAAAOOQUeLSz9U3MEmuKDYtNpJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXKC9JqaGFTEn2IEm2OcnJdkkg2VSE82r8iFSkAsOMXIq5-ub2iYbJqUk1aSkgYzoawqpRKqMKsqviCnEMqpKDA2KS6GG2eRbAQzIT3HzKgswyz5F6OEG4abIc5rYGFcxCrqlFmUk6jgm5iXklmko-Cdn5OdWJJ4i02SwfRjK1P8g_ZrR49uPjtZnWVSq6CDMYfRtAoA-i_ktxMBAAA"
+        },
+        {
+          "name": "Sri Mayapur Chandrod... Mandir, IS...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2Jjgpy1H6imRf18XtmBII67HmrLBb0OJkSNcQ8PWYV77uRNqivr6t&s=0",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Sri+Mayapur+Chandrodaya+Mandir,+ISKCON&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2TcpJK0lJM5JIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXLq5-obmJoYVMSfYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMqBbCTCirSqmEKsyqii_IKYRyKgqMTYqL4cZZJBvBTEjPMTMqyzBL_sUo4YbhZojzGlgYF7GqBRdlKvgmViYWlBYpOGck5qUU5acAuUCxvJTMIh0Fz2BvZ3-_W2ySDKYfW5niH7RfO3p089nJ6iyTWgUdjDmMplUAAJSnsrcnAQAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAR6BAhYEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Sri+Mayapur+Chandrodaya+Mandir%2C+ISKCON&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEw2TcpJK0lJM5JIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXLq5-obmJoYVMSfYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMqBbCTCirSqmEKsyqii_IKYRyKgqMTYqL4cZZJBvBTEjPMTMqyzBL_sUo4YbhZojzGlgYF7GqBRdlKvgmViYWlBYpOGck5qUU5acAuUCxvJTMIh0Fz2BvZ3-_W2ySDKYfW5niH7RfO3p089nJ6iyTWgUdjDmMplUAAJSnsrcnAQAA"
+        },
+        {
+          "name": "Belur Math",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR9yVM2VuccfaMYWmiB6SLw7FLYKyuE9tr4C-QP2XKN6nNoPzAPWeV5kA0deUaT8QMjhy9sM0gt&s=19",
+          "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Belur+Math&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC2rSqk0kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xQrSaGFTEn2LkArGNk_OSTLKhEunJ5hW5UAmT5Ipi0-JTjLz66fqGhsmmSTlpJSlpMBNAlkMVZlXFF-QUQjkVBcYmxcVw4yySjWAmpOeYGZVlmCX_YpRww3AzxHkNLIyLWLmcUnNKixR8E0sybrFJMph-bGWKf9B-7ejRzWcnq7NMahV0MOYwmlYBADrgNV0HAQAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQs9oBKAV6BAhYEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Belur+Math&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC2rSqk0kkhLzM0vLVYoSc0tyEktVshPU0hKzUtPzIkShgmFpxaXKDiBBU8xQrSaGFTEn2LkArGNk_OSTLKhEunJ5hW5UAmT5Ipi0-JTjLz66fqGhsmmSTlpJSlpMBNAlkMVZlXFF-QUQjkVBcYmxcVw4yySjWAmpOeYGZVlmCX_YpRww3AzxHkNLIyLWLmcUnNKixR8E0sybrFJMph-bGWKf9B-7ejRzWcnq7NMahV0MOYwmlYBADrgNV0HAQAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Famous+temples+of+Bengal&stick=H4sIAAAAAAAAAOOQMZJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXLq5-obmJoYVMSfYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMvPrp-oaGyaZJOWklKWkwE8qqUiqhCrOq4gtyCqGcigJjk-JiuHEWyUYwE9JzzIzKMsySfzFKuGG4GeK8BhbGRaw4ZW-xSTKYfmxlin_Qfu3o0c1nJ6uzTGoVdDDmMJpWAQA2hQx2CgEAAA&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ4qYDegQIWBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=Famous+temples+of+Bengal&stick=H4sIAAAAAAAAAOOQMZJIS8zNLy1WKEnNLchJLVbIT1NISs1LT8yJEoYJhacWlyg4gQVPMXLq5-obmJoYVMSfYuQCsY2T85JMsqES6cnmFblQCZPkimLT4lOMvPrp-oaGyaZJOWklKWkwE8qqUiqhCrOq4gtyCqGcigJjk-JiuHEWyUYwE9JzzIzKMsySfzFKuGG4GeK8BhbGRaw4ZW-xSTKYfmxlin_Qfu3o0c1nJ6uzTGoVdDDmMJpWAQA2hQx2CgEAAA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Which is the famous temple of West Bengal?",
+      "title": "Temples in Kolkata (List):",
+      "link": "https://www.fabhotels.com/blog/temples-in-kolkata/",
+      "displayed_link": "https://www.fabhotels.com › ... › Destinations › Kolkata"
+    },
+    {
+      "question": "What are the important temples of Bengal?",
+      "title": "Top 7 Temples To Visit In Kolkata",
+      "link": "https://www.oyorooms.com/travel-guide/best-temples-to-visit-in-kolkata/",
+      "list": [
+        "Kalighat Temple.",
+        "Birla Mandir.",
+        "Thanthania Kalibari.",
+        "Pareshnath Jain Temple.",
+        "Dakshineshwar Temple.",
+        "Belur Math.",
+        "Agni Mandir."
+      ],
+      "displayed_link": "https://www.oyorooms.com › travel-guide › best-templ..."
+    },
+    {
+      "question": "Why is West Bengal famous?",
+      "snippet": "West Bengal is famous for its terracotta temples of Bishnupur. Hazarduari Palace, a popular tourist attraction, is known to have the second largest chandelier in the world and also the largest staircase in India.",
+      "title": "Tourism in West Bengal - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Tourism_in_West_Bengal",
+      "displayed_link": "https://en.wikipedia.org › wiki › Tourism_in_West_Bengal"
+    },
+    {
+      "question": "Which is the temple city of West Bengal?",
+      "snippet": "Bishnupur",
+      "title": "Bishnupur",
+      "link": "https://delhi-fun-dos.com/bishnupur-the-temple-city-of-west-bengal/",
+      "displayed_link": "https://delhi-fun-dos.com › bishnupur-the-temple-city-of-..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "10 Uniquely Designed Temples in West Bengal",
+      "link": "https://www.nativeplanet.com/travel-guide/unique-temples-in-west-bengal-001868.html",
+      "displayed_link": "https://www.nativeplanet.com › travel-guide › unique-t...",
+      "thumbnail": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd079984e22b80737db955647b10b69726edf.jpeg",
+      "date": "26-Apr-2018",
+      "snippet": "Hangseswari Temple · Rasmancha · Bahulara Siddeshwara · Jor Bangla · Belur Mutt · Dakshineshwar Kali Temple · Shyam Ray Temple · ISKCON Temple.",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "nativeplanet.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0791ed468a641f9f85c42424ad652883f6df592f0f4612a396446b17fbdf2ea43ff.jpeg"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.nativeplanet.com/travel-guide/unique-temples-in-west-bengal-001868.html&tbm=ilp&ilps=ADNMCi0aLXHdihx26ns91-Nm6o8kYf0TSA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:TXW1Ni_AQfkJ:https://www.nativeplanet.com/travel-guide/unique-temples-in-west-bengal-001868.html+&cd=15&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 2,
+      "title": "List of Hindu temples in West Bengal - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_Hindu_temple...",
+      "thumbnail": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd079be477bbcd41c54e835e66060077b4a02.jpeg",
+      "snippet": "Hindu temples in West Bengal or Bengal temples are a little-known special form of the Hindu temple. They are mostly from the 17th to the 19th century and ...",
+      "snippet_highlighted_words": [
+        "temples",
+        "West Bengal",
+        "temples",
+        "temple"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Materials",
+            "link": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal#Materials"
+          },
+          {
+            "title": "History",
+            "link": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal#History"
+          },
+          {
+            "title": "Architecture",
+            "link": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal#Architecture"
+          },
+          {
+            "title": "Deul temple",
+            "link": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal#Deul_temple"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0797789897292ca9a224886268c5f9627cdb7bcf59fd0ff7da2a4149ab595d39685.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal&tbm=ilp&ilps=ADNMCi2aHlnNN4H6LjlOYQTiylwqt6iMHA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:_xyKaUx9MHMJ:https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_West_Bengal+&cd=16&hl=en&ct=clnk&gl=in",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Category:Hindu temples in West Bengal - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Category:Hindu_temples_in_West_Bengal",
+          "displayed_link": "https://en.wikipedia.org › wiki › Category:Hindu_templ...",
+          "snippet": "List of Hindu temples in West Bengal ; A. Ananta Basudeba Temple · Attahas, Katwa ; B · Baidyapur Jora Deul · Bargabhima Temple · Belur Math · Bhavaniswar Mandir ...",
+          "snippet_highlighted_words": [
+            "temples",
+            "West Bengal",
+            "Temple",
+            "Temple"
+          ],
+          "about_this_result": {
+            "source": {
+              "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+              "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0794906b8cebfd17d954606bfe7ba8d2db92f9a686b2ffe5da2c41730eb26cf722f1054b91e0a9b3e28087091baab4ee2c9619ef4ed618dd5e6.png"
+            }
+          },
+          "about_page_link": "https://www.google.co.in/search?q=About+https://en.wikipedia.org/wiki/Category:Hindu_temples_in_West_Bengal&tbm=ilp&ilps=ADNMCi0VAzK5Gla93ALzTM4NUS2jhYDXNA",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:gn8OHhQyd5QJ:https://en.wikipedia.org/wiki/Category:Hindu_temples_in_West_Bengal+&cd=17&hl=en&ct=clnk&gl=in",
+          "related_pages_link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=related:https://en.wikipedia.org/wiki/Category:Hindu_temples_in_West_Bengal+temples+West+Bengal"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "10 Popular Temples in West Bengal - Tusk Travel",
+      "link": "https://www.tusktravel.com/blog/popular-temples-in-west-bengal/",
+      "displayed_link": "https://www.tusktravel.com › blog › popular-temples-in...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ00wiog5ndZaG1sYQYlz0PNtYDdIKIuWN_P8N6LlSwq6Jp4UDMw9U&usqp=CAE&s",
+      "date": "14-Feb-2021",
+      "snippet": "Here are the 10 famous temples in West Bengal: · Birla Mandir, Ashutosh Chowdary Avenue, Ballygunge · Kalighat Temple, Kalighat · Dakshineswar Kali ...",
+      "snippet_highlighted_words": [
+        "temples",
+        "West Bengal",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "tusktravel.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0792abf53430ff5671c01d0d0ff3a6044972d88f31199bce1c714aecf4cdf27c0f4.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.tusktravel.com/blog/popular-temples-in-west-bengal/&tbm=ilp&ilps=ADNMCi1cPfRE-yaUqXpKyuKCxPCvESK2Hw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:r7H7IsKC8IUJ:https://www.tusktravel.com/blog/popular-temples-in-west-bengal/+&cd=18&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 4,
+      "title": "12 Renowned Temples in West Bengal That Every ...",
+      "link": "https://www.thetoptours.com/asia/india/west-bengal/famous-temples-to-visit-in-west-bengal",
+      "displayed_link": "https://www.thetoptours.com › asia › india › west-bengal",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJgNeE9sY8qDgxOC_v0JeTy8YMXLWwz4CZU9BiS4PDMmwhJT1eOr1f&usqp=CAE&s",
+      "date": "02-Feb-2021",
+      "snippet": "1. Birla Mandir · 2. Hangseswari Temple · 3. Kalighat Kali Temple · 4. Shyam Ray Temple · 5. Dakshineswar Kali Temple · 6. Bahulara Siddheshwara · 7.",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "thetoptours.com was first indexed by Google in July 2014",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd07933957b93dadb05fa8d434c2f90886e196965af6925490096c29bafea586ef9ef.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.thetoptours.com/asia/india/west-bengal/famous-temples-to-visit-in-west-bengal&tbm=ilp&ilps=ADNMCi0A0E8XYwqkbmWvz3EuubhNT2KosA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P6iJG287z7AJ:https://www.thetoptours.com/asia/india/west-bengal/famous-temples-to-visit-in-west-bengal+&cd=19&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 5,
+      "title": "12 Famous Temples in Kolkata, Dakshineswar Kali Mandir",
+      "link": "https://www.fabhotels.com/blog/temples-in-kolkata/",
+      "displayed_link": "https://www.fabhotels.com › ... › Destinations › Kolkata",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTKXHItALuEgi9hXTTLpJ4D4-4MSkag-gGWxPFB1UcDTZla6U_e4-3&usqp=CAE&s",
+      "date": "14-Sept-2018",
+      "snippet": "A spellbinding structure built in the pious white colour, Birla Mandir Kolkata, West Bengal is sure to appeal to your devout heart.",
+      "snippet_highlighted_words": [
+        "West Bengal"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "fabhotels.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0796e55d9c63cbb6a4d719300463623e81d3a6e33cc54a7fbb9619703dc44780765.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.fabhotels.com/blog/temples-in-kolkata/&tbm=ilp&ilps=ADNMCi3lrMYrvkbhaPQXRLBWoF03lkrJdA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:ORe_5pomscoJ:https://www.fabhotels.com/blog/temples-in-kolkata/+&cd=20&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 6,
+      "title": "Temples of West Bengal - Templenet",
+      "link": "http://templenet.com/encbeng1.html",
+      "displayed_link": "http://templenet.com › encbeng1",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQwQQhEQ735o6zq1QFDJiZhlnFI4eykfxT5wXSCLh_MUDKiBnTvhWH&usqp=CAE&s",
+      "snippet": "2 Balrampur Jain Temple at Balrampur ; 3 Bansuli Temple at Nannur ; 4 Barakar Temples at Barakar ; 5 Bargabhima Temple at Tamluk ; 6 Bhagwati Temple at Gourangpur ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple",
+        "Temples",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "templenet.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd079b1b838be30f4446ca58d299c624164cbe90066dc046206f0c803bbcaa986d9bc.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+http://templenet.com/encbeng1.html&tbm=ilp&ilps=ADNMCi0Ezw3K902SkvjguD4TyqdtUybKRA",
+      "cached_page_link": "http://webcache.googleusercontent.com/search?q=cache:xJJnSj3mICcJ:templenet.com/encbeng1.html+&cd=21&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=related:templenet.com/encbeng1.html+temples+West+Bengal"
+    },
+    {
+      "position": 7,
+      "title": "Temples of West Bengal - Info, History, Timing, Photos ...",
+      "link": "https://www.templepurohit.com/hindu-temples/west-bengal/",
+      "displayed_link": "https://www.templepurohit.com › hindu-temples › west-...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREGM84SApkQskjfuyQQsnfGTGL2yZNRJ6mOk2xAQgK3peP-KRpz6JP&usqp=CAE&s",
+      "snippet": "West Bengal · Nandikeshwari Temple, Sainthia Sainthia · Nalateswari Temple, Nalhati Nalhati · Nadia, Mayapur Mayapur · Madanmohan-Jiu Temple, Samta Mellock · Lakshmi ...",
+      "snippet_highlighted_words": [
+        "West Bengal",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "templepurohit.com was first indexed by Google in March 2015",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd0796c92078b9a97760e823fe178623882fa4d02e8130655e512d846c1ec3600ac3d.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.templepurohit.com/hindu-temples/west-bengal/&tbm=ilp&ilps=ADNMCi0WecHuK7f6SWNp69PIT556PRYmDw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:kynlGcI_CpcJ:https://www.templepurohit.com/hindu-temples/west-bengal/+&cd=22&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 8,
+      "title": "7 Famous Temples In Kolkata - Religious Sites & Spiritual ...",
+      "link": "https://www.oyorooms.com/travel-guide/best-temples-to-visit-in-kolkata/",
+      "displayed_link": "https://www.oyorooms.com › travel-guide › best-templ...",
+      "date": "12-Mar-2019",
+      "snippet": "Top 7 Temples To Visit In Kolkata · Kalighat Temple · Birla Mandir · Thanthania Kalibari · Pareshnath Jain Temple · Dakshineshwar Temple · Belur Math ...",
+      "snippet_highlighted_words": [
+        "Temples",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "OYO Rooms, also known as OYO Hotels & Homes, is an Indian multinational hospitality chain of leased and franchised hotels, homes and living spaces. Founded in 2012 by Ritesh Agarwal, OYO initially consisted mainly of budget hotels.",
+          "icon": "https://serpapi.com/searches/62b115ac2e7d6bafc2e13610/images/6b30edf5df5a44d8f48bf9401a7dd07952b34136d2ddd94b3f8d7a6009797664cdcd0b505e33a849f28156736e7f184d.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.oyorooms.com/travel-guide/best-temples-to-visit-in-kolkata/&tbm=ilp&ilps=ADNMCi2aDb9ZNcCtpdIVRFv6nQSPwaCMsA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-1tftp9J9MMJ:https://www.oyorooms.com/travel-guide/best-temples-to-visit-in-kolkata/+&cd=23&hl=en&ct=clnk&gl=in"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "west bengal temples list",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=West+Bengal+temples+list&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhgEAE"
+    },
+    {
+      "query": "famous hindu temples in west bengal",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Famous+Hindu+temples+in+West+Bengal&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhfEAE"
+    },
+    {
+      "query": "top 10 temple in west bengal",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Top+10+temple+in+West+Bengal&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAheEAE"
+    },
+    {
+      "query": "famous temple of west bengal",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Famous+temple+of+West+Bengal&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhdEAE"
+    },
+    {
+      "query": "all temple in west bengal",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=All+temple+in+West+Bengal&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhcEAE"
+    },
+    {
+      "query": "temples in kolkata",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Temples+in+Kolkata&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhbEAE"
+    },
+    {
+      "query": "ancient temples in west bengal",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=Ancient+temples+in+West+Bengal&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhaEAE"
+    },
+    {
+      "query": "west bengal temple images",
+      "link": "https://www.google.co.in/search?ucbcb=1&gl=in&hl=en&q=West+Bengal+temple+images&sa=X&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ1QJ6BAhhEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=10&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8NMDegQIARBQ",
+    "other_pages": {
+      "2": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=10&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARA-",
+      "3": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=20&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBA",
+      "4": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=30&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBC",
+      "5": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=40&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBE",
+      "6": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=50&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBG",
+      "7": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=60&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBI",
+      "8": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=70&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBK",
+      "9": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=80&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBM",
+      "10": "https://www.google.co.in/search?q=temples+West+Bengal&ucbcb=1&gl=in&hl=en&ei=sRWxYon2DIiS0PEP2oCKuAY&start=90&sa=N&ved=2ahUKEwjJkv3Jqb34AhUICTQIHVqAAmcQ8tMDegQIARBO"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&location=%22West+Bengal%2C+India%22&num=10&q=temples+West+Bengal&start=90"
+    }
+  }
+}

@@ -1,0 +1,567 @@
+{
+  "search_metadata": {
+    "id": "62b0af88477c0eea070e70cb",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/705208470e7f131d/62b0af88477c0eea070e70cb.json",
+    "created_at": "2022-06-20 17:34:00 UTC",
+    "processed_at": "2022-06-20 17:34:00 UTC",
+    "google_url": "https://www.google.co.in/search?q=temples+in+Tamilnadu&oq=temples+in+Tamilnadu&hl=en&gl=in&num=10&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/705208470e7f131d/62b0af88477c0eea070e70cb.html",
+    "total_time_taken": 0.9
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "temples in Tamilnadu",
+    "google_domain": "google.co.in",
+    "hl": "en",
+    "gl": "in",
+    "num": "10",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "temples in Tamilnadu"
+  },
+  "knowledge_graph": {
+    "tamil_nadu": [
+      {
+        "name": "Brihadeeswara Temple",
+        "extensions": [
+          "Thanjavur"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Brihadisvara+Temple&stick=H4sIAAAAAAAAAONgVeLSz9U3MDEvKSo2MBIpSc0tyEktVsjMUwhJzM3MyUtMKT3FiKQEyjEyy8pNMYZzcpKLjU4xcoI4SSnZ6QVQtkVxspkhVFFKUWVSnskpRl79dH1Dw4ykZCNz86QsqGSGcVlGbgmUY1polluS9YjxCBO3wMsf94SldjFNWnPyGuNmJi4Bn_z84tScyqDUnMSS1JSQfCE_LjbXvJLMkkohHikuLg6QfvNkSwspBSUuXsu7C9lE34k90tMS4jSeJrGx6SiDteCHRGO3M6VTQo1EuCBOyTbLTs5IsSgQmP9gGqNQFBd3cGpJSL5vfkpmWqWQt5AnF6dvam5SalGxf5qQNheXc35OTmpySWZ-npCslDSXpH4yXEA_IzMvpTQeGoZK3EHgQDCrjE9Kt2LSYFIqNIrbdWnaObYIwTcz_v-vfhHsIKWhJcjF5pKfm5iZJ5jz9v3_T__f22sJc3GEJFbk5-XnVgoGaysnWP17b6-kyPl2n6kD49H39oI7D_63n-bq7CDBocCgwWD4yJLVYf0UwQNaDAcYmZr2rTjExsHBKMBgxMTBUMXAs4hV2KkoMyMxJbO4LLEoUSEE7LoJbIwA3fjOgfsBAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Brihadisvara+Temple&stick=H4sIAAAAAAAAAONgVeLSz9U3MDEvKSo2MBIpSc0tyEktVsjMUwhJzM3MyUtMKT3FiKQEyjEyy8pNMYZzcpKLjU4xcoI4SSnZ6QVQtkVxspkhVFFKUWVSnskpRl79dH1Dw4ykZCNz86QsqGSGcVlGbgmUY1polluS9YjxCBO3wMsf94SldjFNWnPyGuNmJi4Bn_z84tScyqDUnMSS1JSQfCE_LjbXvJLMkkohHikuLg6QfvNkSwspBSUuXsu7C9lE34k90tMS4jSeJrGx6SiDteCHRGO3M6VTQo1EuCBOyTbLTs5IsSgQmP9gGqNQFBd3cGpJSL5vfkpmWqWQt5AnF6dvam5SalGxf5qQNheXc35OTmpySWZ-npCslDSXpH4yXEA_IzMvpTQeGoZK3EHgQDCrjE9Kt2LSYFIqNIrbdWnaObYIwTcz_v-vfhHsIKWhJcjF5pKfm5iZJ5jz9v3_T__f22sJc3GEJFbk5-XnVgoGaysnWP17b6-kyPl2n6kD49H39oI7D_63n-bq7CDBocCgwWD4yJLVYf0UwQNaDAcYmZr2rTjExsHBKMBgxMTBUMXAs4hV2KkoMyMxJbO4LLEoUSEE7LoJbIwA3fjOgfsBAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965e07c2ee84024237b293d2ac298b2d556.jpeg"
+      },
+      {
+        "name": "Ekambaranathar Temple",
+        "extensions": [
+          "Kilambi"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ekambareswarar+Temple+(Kanchipuram)&stick=H4sIAAAAAAAAAONgVeLSz9U3MDLLyk0xNhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5UDUwzk5ycVGpxg5QZyklOz0AijbojjZzBCqKKWoMinP5BQjr366vqFhRlKykbl5UhZUMsO4LCO3BMoxLTTLLcl6xHiEiVvg5Y97wlK7mCatOXmNcTMTl4BPfn5xak5lUGpOYklqSki-kB8Xm2teSWZJpRCPFBcXB0i_ebKlhZSCEhev5d2FbKLvxB7paQlxGk-T2Nh0lMFa8EOisduZ0imhRiJcEKdkm2UnZ6RYFAjMfzCNUSiKizs4tSQk3zc_JTOtUshbyJOL0zc1Nym1qNg_TUibi8s5PycnNbkkMz9PSFZKmktSPxkuoJ-RmZdSGg8NQyXuIHAgmFXGJ6VbMWkwKRUaxe26NO0cW4Tgmxn__1e_CHaQ0tAS5GJzyc9NzMwTzHn7_v-n_-_ttYS5OEISK_Lz8nMrBYO1lROs_r23V1LkfLvP1IHx6Ht7wZ0H_9tPc3V2kOBQYNBgMHxkyeqwforgAS2GA4xMTftWHGLj4GAUYDBi4mCoYuBZxKrsmp2Ym5RYlFpcnliUWKQQAnafgoZ3Yl5yRmZBaVFiruYENkYA8fb2RwsCAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ekambareswarar+Temple+%28Kanchipuram%29&stick=H4sIAAAAAAAAAONgVeLSz9U3MDLLyk0xNhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5UDUwzk5ycVGpxg5QZyklOz0AijbojjZzBCqKKWoMinP5BQjr366vqFhRlKykbl5UhZUMsO4LCO3BMoxLTTLLcl6xHiEiVvg5Y97wlK7mCatOXmNcTMTl4BPfn5xak5lUGpOYklqSki-kB8Xm2teSWZJpRCPFBcXB0i_ebKlhZSCEhev5d2FbKLvxB7paQlxGk-T2Nh0lMFa8EOisduZ0imhRiJcEKdkm2UnZ6RYFAjMfzCNUSiKizs4tSQk3zc_JTOtUshbyJOL0zc1Nym1qNg_TUibi8s5PycnNbkkMz9PSFZKmktSPxkuoJ-RmZdSGg8NQyXuIHAgmFXGJ6VbMWkwKRUaxe26NO0cW4Tgmxn__1e_CHaQ0tAS5GJzyc9NzMwTzHn7_v-n_-_ttYS5OEISK_Lz8nMrBYO1lROs_r23V1LkfLvP1IHx6Ht7wZ0H_9tPc3V2kOBQYNBgMHxkyeqwforgAS2GA4xMTftWHGLj4GAUYDBi4mCoYuBZxKrsmp2Ym5RYlFpcnliUWKQQAnafgoZ3Yl5yRmZBaVFiruYENkYA8fb2RwsCAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f796513ab5614a4e79e2dfbd856a7cb75d523.jpeg"
+      },
+      {
+        "name": "Arulmigu Ramanathaswamy Temple",
+        "extensions": [
+          "Rameswaram"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ramanathaswamy+Temple&stick=H4sIAAAAAAAAAONgVeLSz9U3MDLLSS42MhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5IM2nGDlBnKSU7PQCKNuiONnMEKoopagyKc_kFCOvfrq-oWFGUrKRuXlSFlQyw7gsI7cEyjEtNMstyXrEeISJW-Dlj3vCUruYJq05eY1xMxOXgE9-fnFqTmVQak5iSWpKSL6QHxeba15JZkmlEI8UFxcHSL95sqWFlIISF6_l3YVsou_EHulpCXEaT5PY2HSUwVrwQ6Kx25nSKaFGIlwQp2SbZSdnpFgUCMx_MI1RKIqLOzi1JCTfNz8lM61SyFvIk4vTNzU3KbWo2D9NSJuLyzk_Jyc1uSQzP09IVkqaS1I_GS6gn5GZl1IaDw1DJe4gcCCYVcYnpVsxaTApFRrF7bo07RxbhOCbGf__V78IdpDS0BLkYnPJz03MzBPMefv-_6f_7-21hLk4QhIr8vPycysFg7WVE6z-vbdXUuR8u8_UgfHoe3vBnQf_209zdXaQ4FBg0GAwfGTJ6rB-iuABLYYDjExN-1YcYuPgYBRgMGLiYKhi4FnEKhqUmJuYl1iSkVhcnphbqRACdt8ENkYAXJevef0BAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ramanathaswamy+Temple&stick=H4sIAAAAAAAAAONgVeLSz9U3MDLLSS42MhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5IM2nGDlBnKSU7PQCKNuiONnMEKoopagyKc_kFCOvfrq-oWFGUrKRuXlSFlQyw7gsI7cEyjEtNMstyXrEeISJW-Dlj3vCUruYJq05eY1xMxOXgE9-fnFqTmVQak5iSWpKSL6QHxeba15JZkmlEI8UFxcHSL95sqWFlIISF6_l3YVsou_EHulpCXEaT5PY2HSUwVrwQ6Kx25nSKaFGIlwQp2SbZSdnpFgUCMx_MI1RKIqLOzi1JCTfNz8lM61SyFvIk4vTNzU3KbWo2D9NSJuLyzk_Jyc1uSQzP09IVkqaS1I_GS6gn5GZl1IaDw1DJe4gcCCYVcYnpVsxaTApFRrF7bo07RxbhOCbGf__V78IdpDS0BLkYnPJz03MzBPMefv-_6f_7-21hLk4QhIr8vPycysFg7WVE6z-vbdXUuR8u8_UgfHoe3vBnQf_209zdXaQ4FBg0GAwfGTJ6rB-iuABLYYDjExN-1YcYuPgYBRgMGLiYKhi4FnEKhqUmJuYl1iSkVhcnphbqRACdt8ENkYAXJevef0BAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965d4a94a29fa689bae3f9ebf132c6f8560.jpeg"
+      },
+      {
+        "name": "Sri Ranganatha Swamy Temple",
+        "extensions": [
+          "Tiruchirappalli"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ranganathaswamy+Temple,+Srirangam&stick=H4sIAAAAAAAAAONgVeLUz9U3SErJTi8wEilJzS3ISS1WyMxTCEnMzczJS0wpPcXIBVJhYl5SVGwA5RiZZeWmGMM5OcnFRqcYEQZB2RbFyWaGUEUpRZVJeSanGHn10_UNDTOSko3MzZOyoJIZxmUZuSVQjmmhWW5J1iPGI0zcAi9_3BOW2sU0ac3Ja4ybmbgEfPLzi1NzKoNScxJLUlNC8oX8uNhc80oySyqFeKS4uDhA-s2TLS2kFJS4eC3vLmQTfSf2SE9LiNN4msTGpqMM1oIfEo3dzpROCTUS4YI4JdssOzkjxaJAYP6DaYxCUVzcwaklIfm--SmZaZVC3kKeXJy-qblJqUXF_mlC2lxczvk5OanJJZn5eUKyUtJckvrJcAH9jMy8lNJ4aBgqcQeBA8GsMj4p3YpJg0mp0Chu16Vp59giBN_M-P-_-kWwg5SGliAXm0t-bmJmnmDO2_f_P_1_b68lzMURkliRn5efWykYrK2cYPXvvb2SIufbfaYOjEff2wvuPPjffpqrs4MEhwKDBoPhI0tWh_VTBA9oMRxgZGrat-IQGwcHowCDERMHQxUDzyJWxaDEvPTEvMSSjMTi8sTcSoUQsAN1FIKLMotAUrkT2BgBAE1MZwgCAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEA8",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ranganathaswamy+Temple%2C+Srirangam&stick=H4sIAAAAAAAAAONgVeLUz9U3SErJTi8wEilJzS3ISS1WyMxTCEnMzczJS0wpPcXIBVJhYl5SVGwA5RiZZeWmGMM5OcnFRqcYEQZB2RbFyWaGUEUpRZVJeSanGHn10_UNDTOSko3MzZOyoJIZxmUZuSVQjmmhWW5J1iPGI0zcAi9_3BOW2sU0ac3Ja4ybmbgEfPLzi1NzKoNScxJLUlNC8oX8uNhc80oySyqFeKS4uDhA-s2TLS2kFJS4eC3vLmQTfSf2SE9LiNN4msTGpqMM1oIfEo3dzpROCTUS4YI4JdssOzkjxaJAYP6DaYxCUVzcwaklIfm--SmZaZVC3kKeXJy-qblJqUXF_mlC2lxczvk5OanJJZn5eUKyUtJckvrJcAH9jMy8lNJ4aBgqcQeBA8GsMj4p3YpJg0mp0Chu16Vp59giBN_M-P-_-kWwg5SGliAXm0t-bmJmnmDO2_f_P_1_b68lzMURkliRn5efWykYrK2cYPXvvb2SIufbfaYOjEff2wvuPPjffpqrs4MEhwKDBoPhI0tWh_VTBA9oMRxgZGrat-IQGwcHowCDERMHQxUDzyJWxaDEvPTEvMSSjMTi8sTcSoUQsAN1FIKLMotAUrkT2BgBAE1MZwgCAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965bd3c2c0ab75981069dabab6dbc3703dc.jpeg"
+      },
+      {
+        "name": "Kailasanathar Temple",
+        "extensions": [
+          "Karuppadithattadai"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Kailasanathar+Temple&stick=H4sIAAAAAAAAAONgVeLUz9U3sChONjM0EilJzS3ISS1WyMxTCEnMzczJS0wpPcXIBVJhYl5SVGwA5RiZZeWmGMM5OcnFRqcYwQYlpWSnF0DZYEOhilKKKpPyTE4x8uqn6xsaZiQlG5mbJ2VBJTOMyzJyS6Ac00Kz3JKsR4xHmLgFXv64Jyy1i2nSmpPXGDczcQn45OcXp-ZUBqXmJJakpoTkC_lxsbnmlWSWVArxSHFxcYD0mydbWkgpKHHxWt5dyCb6TuyRnpYQp_E0iY1NRxmsBT8kGrudKZ0SaiTCBXFKtll2ckaKRYHA_AfTGIWiuLiDU0tC8n3zUzLTKoW8hTy5OH1Tc5NSi4r904S0ubic83NyUpNLMvPzhGSlpLkk9ZPhAvoZmXkppfHQMFTiDgIHglllfFK6FZMGk1KhUdyuS9POsUUIvpnx_3_1i2AHKQ0tQS42l_zcxMw8wZy37_9_-v_eXkuYiyMksSI_Lz-3UjBYWznB6t97eyVFzrf7TB0Yj763F9x58L_9NFdnBwkOBQYNBsNHlqwO66cIHtBiOMDI1LRvxSE2Dg5GAQYjJg6GKgaeRawi3omZOYnFiXmJJRmJRQohYOdNYGMEAAc1_Rf7AQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEBI",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Kailasanathar+Temple&stick=H4sIAAAAAAAAAONgVeLUz9U3sChONjM0EilJzS3ISS1WyMxTCEnMzczJS0wpPcXIBVJhYl5SVGwA5RiZZeWmGMM5OcnFRqcYwQYlpWSnF0DZYEOhilKKKpPyTE4x8uqn6xsaZiQlG5mbJ2VBJTOMyzJyS6Ac00Kz3JKsR4xHmLgFXv64Jyy1i2nSmpPXGDczcQn45OcXp-ZUBqXmJJakpoTkC_lxsbnmlWSWVArxSHFxcYD0mydbWkgpKHHxWt5dyCb6TuyRnpYQp_E0iY1NRxmsBT8kGrudKZ0SaiTCBXFKtll2ckaKRYHA_AfTGIWiuLiDU0tC8n3zUzLTKoW8hTy5OH1Tc5NSi4r904S0ubic83NyUpNLMvPzhGSlpLkk9ZPhAvoZmXkppfHQMFTiDgIHglllfFK6FZMGk1KhUdyuS9POsUUIvpnx_3_1i2AHKQ0tQS42l_zcxMw8wZy37_9_-v_eXkuYiyMksSI_Lz-3UjBYWznB6t97eyVFzrf7TB0Yj763F9x58L_9NFdnBwkOBQYNBsNHlqwO66cIHtBiOMDI1LRvxSE2Dg5GAQYjJg6GKgaeRawi3omZOYnFiXmJJRmJRQohYOdNYGMEAAc1_Rf7AQAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965149ab1ba15b9675768fe3793804b869f.jpeg"
+      },
+      {
+        "name": "Saravana Silks",
+        "extensions": [
+          "Kumbakonam"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ramaswamy+Temple,+Kumbakonam&stick=H4sIAAAAAAAAAONgVeLSz9U3SCmqTMozMRIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqghiwylGXv10fUPDjKRkI3PzpCyoZIZxWUZuCZRjWmiWW5L1iPEIE7fAyx_3hKV2MU1ac_Ia42YmLgGf_Pzi1JzKoNScxJLUlJB8IT8uNte8ksySSiEeKS4uDpB-82RLCykFJS5ey7sL2UTfiT3S0xLiNJ4msbHpKIO14IdEY7czpVNCjUS4IE7JNstOzkixKBCY_2Aao1AUF3dwaklIvm9-SmZapZC3kCcXp29qblJqUbF_mpA2F5dzfk5OanJJZn6ekKyUNJekfjJcQD8jMy-lNB4ahkrcQeBAMKuMT0q3YtJgUio0itt1ado5tgjBNzP-_69-EewgpaElyMXmkp-bmJknmPP2_f9P_9_bawlzcYQkVuTn5edWCgZrKydY_Xtvr6TI-XafqQPj0ff2gjsP_ref5ursIMGhwKDBYPjIktVh_RTBA1oMBxiZmvatOMTGwcEowGDExMFQxcCziFUmKDE3sbg8MbdSIQTsNB0F79LcpMTs_LzE3AlsjABZgZFHBAIAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEBU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ramaswamy+Temple%2C+Kumbakonam&stick=H4sIAAAAAAAAAONgVeLSz9U3SCmqTMozMRIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqghiwylGXv10fUPDjKRkI3PzpCyoZIZxWUZuCZRjWmiWW5L1iPEIE7fAyx_3hKV2MU1ac_Ia42YmLgGf_Pzi1JzKoNScxJLUlJB8IT8uNte8ksySSiEeKS4uDpB-82RLCykFJS5ey7sL2UTfiT3S0xLiNJ4msbHpKIO14IdEY7czpVNCjUS4IE7JNstOzkixKBCY_2Aao1AUF3dwaklIvm9-SmZapZC3kCcXp29qblJqUbF_mpA2F5dzfk5OanJJZn6ekKyUNJekfjJcQD8jMy-lNB4ahkrcQeBAMKuMT0q3YtJgUio0itt1ado5tgjBNzP-_69-EewgpaElyMXmkp-bmJknmPP2_f9P_9_bawlzcYQkVuTn5edWCgZrKydY_Xtvr6TI-XafqQPj0ff2gjsP_ref5ursIMGhwKDBYPjIktVh_RTBA1oMBxiZmvatOMTGwcEowGDExMFQxcCziFUmKDE3sbg8MbdSIQTsNB0F79LcpMTs_LzE3AlsjABZgZFHBAIAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f79656102f7c1692fdf625502f6a8579fa857.jpeg"
+      },
+      {
+        "name": "Sani Temple Thirunallar",
+        "extensions": [
+          "Thirunallar"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Tirunallar+Dharbaranyeswarar+Temple&stick=H4sIAAAAAAAAAONgVeLVT9c3NMxISjYyN0_KMhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FyKWfq29gYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI6qNUMkM47KM3BIox7TQLLck6xHjESZugZc_7glL7WKatObkNcbNTFwCPvn5xak5lUGpOYklqSkh-UJ-XGyueSWZJZVCPFJcXBwg_ebJlhZSCkpcvJZ3F7KJvhN7pKclxGk8TWJj01EGa8EPicZuZ0qnhBqJcEGckm2WnZyRYlEgMP_BNEahKC7u4NSSkHzf_JTMtEohbyFPLk7f1Nyk1KJi_zQhbS4u5_ycnNTkksz8PCFZKWkuSf1kuIB-RmZeSmk8NAyVuIPAgWBWGZ-UbsWkwaRUaBS369K0c2wRgm9m_P9f_SLYQUpDS5CLzSU_NzEzTzDn7fv_n_6_t9cS5uIISazIz8vPrRQM1lZOsPr33l5JkfPtPlMHxqPv7QV3HvxvP83V2UGCQ4FBg8HwkSWrw_opgge0GA4wMjXtW3GIjYODUYDBiImDoYqBZxGrckhmUWleYk5OYpGCS0ZiUVJiUWJeZWpxOZAuUggBu3YCGyMAvPWp7Q4CAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEBg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Tirunallar+Dharbaranyeswarar+Temple&stick=H4sIAAAAAAAAAONgVeLVT9c3NMxISjYyN0_KMhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FyKWfq29gYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI6qNUMkM47KM3BIox7TQLLck6xHjESZugZc_7glL7WKatObkNcbNTFwCPvn5xak5lUGpOYklqSkh-UJ-XGyueSWZJZVCPFJcXBwg_ebJlhZSCkpcvJZ3F7KJvhN7pKclxGk8TWJj01EGa8EPicZuZ0qnhBqJcEGckm2WnZyRYlEgMP_BNEahKC7u4NSSkHzf_JTMtEohbyFPLk7f1Nyk1KJi_zQhbS4u5_ycnNTkksz8PCFZKWkuSf1kuIB-RmZeSmk8NAyVuIPAgWBWGZ-UbsWkwaRUaBS369K0c2wRgm9m_P9f_SLYQUpDS5CLzSU_NzEzTzDn7fv_n_6_t9cS5uIISazIz8vPrRQM1lZOsPr33l5JkfPtPlMHxqPv7QV3HvxvP83V2UGCQ4FBg8HwkSWrw_opgge0GA4wMjXtW3GIjYODUYDBiImDoYqBZxGrckhmUWleYk5OYpGCS0ZiUVJiUWJeZWpxOZAuUggBu3YCGyMAvPWp7Q4CAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965d8166d2abf9c7dfd262d932d9549123f.jpeg"
+      },
+      {
+        "name": "Sri Abhirami Amirthakadeswarar Temple",
+        "extensions": [
+          "Thirukadaiyur"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Amritaghateswarar-Abirami+Temple,Thirukkadaiyur&stick=H4sIAAAAAAAAAONgVeLSz9U3yDAuy8gtMRIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI69-ur6hYUZSspG5eVIWVBJiPZRjWmiWW5L1iPEIE7fAyx_3hKV2MU1ac_Ia42YmLgGf_Pzi1JzKoNScxJLUlJB8IT8uNte8ksySSiEeKS4uDpB-82RLCykFJS5ey7sL2UTfiT3S0xLiNJ4msbHpKIO14IdEY7czpVNCjUS4IE7JNstOzkixKBCY_2Aao1AUF3dwaklIvm9-SmZapZC3kCcXp29qblJqUbF_mpA2F5dzfk5OanJJZn6ekKyUNJekfjJcQD8jMy-lNB4ahkrcQeBAMKuMT0q3YtJgUio0itt1ado5tgjBNzP-_69-EewgpaElyMXmkp-bmJknmPP2_f9P_9_bawlzcYQkVuTn5edWCgZrKydY_Xtvr6TI-XafqQPj0ff2gjsP_ref5ursIMGhwKDBYPjIktVh_RTBA1oMBxiZmvatOMTGwcEowGDExMFQxcCziFXfMbcosyQxPQMYZMXliUWJRbqOSZlFwOhVCAE7VSckI7OoNDs7MSUxs7K0aAIbIwAsYZxuFwIAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEBs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Amritaghateswarar-Abirami+Temple%2CThirukkadaiyur&stick=H4sIAAAAAAAAAONgVeLSz9U3yDAuy8gtMRIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI69-ur6hYUZSspG5eVIWVBJiPZRjWmiWW5L1iPEIE7fAyx_3hKV2MU1ac_Ia42YmLgGf_Pzi1JzKoNScxJLUlJB8IT8uNte8ksySSiEeKS4uDpB-82RLCykFJS5ey7sL2UTfiT3S0xLiNJ4msbHpKIO14IdEY7czpVNCjUS4IE7JNstOzkixKBCY_2Aao1AUF3dwaklIvm9-SmZapZC3kCcXp29qblJqUbF_mpA2F5dzfk5OanJJZn6ekKyUNJekfjJcQD8jMy-lNB4ahkrcQeBAMKuMT0q3YtJgUio0itt1ado5tgjBNzP-_69-EewgpaElyMXmkp-bmJknmPP2_f9P_9_bawlzcYQkVuTn5edWCgZrKydY_Xtvr6TI-XafqQPj0ff2gjsP_ref5ursIMGhwKDBYPjIktVh_RTBA1oMBxiZmvatOMTGwcEowGDExMFQxcCziFXfMbcosyQxPQMYZMXliUWJRbqOSZlFwOhVCAE7VSckI7OoNDs7MSUxs7K0aAIbIwAsYZxuFwIAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f79652445e55d205c22bad6cf6e428d188551.jpeg"
+      },
+      {
+        "name": "Arulmigu Thiyagarajaswamy Temple",
+        "extensions": [
+          "Chennai"
+        ],
+        "link": "https://www.google.co.in/search?gl=in&hl=en&q=Thyagaraja+Temple,+Tiruvottiyur&stick=H4sIAAAAAAAAAONgVeLSz9U3MC00yy3JMhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI69-ur6hYUZSspG5eVIWVDLDuCwjtwTKgbjlEeMRJm6Blz_uCUvtYpq05uQ1xs1MXAI--fnFqTmVQak5iSWpKSH5Qn5cbK55JZkllUI8UlxcHCD95smWFlIKSly8lncXsom-E3ukpyXEaTxNYmPTUQZrwQ-Jxm5nSqeEGolwQZySbZadnJFiUSAw_8E0RqEoLu7g1JKQfN_8lMy0SiFvIU8uTt_U3KTUomL_NCFtLi7n_Jyc1OSSzPw8IVkpaS5J_WS4gH5GZl5KaTw0DJW4g8CBYFYZn5RuxaTBpFRoFLfr0rRzbBGCb2b8_1_9IthBSkNLkIvNJT83MTNPMOft-_-f_r-31xLm4ghJrMjPy8-tFAzWVk6w-vfeXkmR8-0-UwfGo-_tBXce_G8_zdXZQYJDgUGDwfCRJavD-imCB7QYDjAyNe1bcYiNg4NRgMGIiYOhioFnEat8SEZlYnpiUWJWokII2G06CiGZRaVl-SUlmZWlRRPYGAGvJW5ABwIAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ-BZ6BAgCEB4",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Thyagaraja+Temple%2C+Tiruvottiyur&stick=H4sIAAAAAAAAAONgVeLSz9U3MC00yy3JMhIpSc0tyEktVsjMUwhJzM3MyUtMKT3FCFZiYl5SVGwA5RiZZeWmGMM5OcnFRqcYOUGcpJTs9AIo26I42cwQqiilqDIpz-QUI69-ur6hYUZSspG5eVIWVDLDuCwjtwTKgbjlEeMRJm6Blz_uCUvtYpq05uQ1xs1MXAI--fnFqTmVQak5iSWpKSH5Qn5cbK55JZkllUI8UlxcHCD95smWFlIKSly8lncXsom-E3ukpyXEaTxNYmPTUQZrwQ-Jxm5nSqeEGolwQZySbZadnJFiUSAw_8E0RqEoLu7g1JKQfN_8lMy0SiFvIU8uTt_U3KTUomL_NCFtLi7n_Jyc1OSSzPw8IVkpaS5J_WS4gH5GZl5KaTw0DJW4g8CBYFYZn5RuxaTBpFRoFLfr0rRzbBGCb2b8_1_9IthBSkNLkIvNJT83MTNPMOft-_-f_r-31xLm4ghJrMjPy8-tFAzWVk6w-vfeXkmR8-0-UwfGo-_tBXce_G8_zdXZQYJDgUGDwfCRJavD-imCB7QYDjAyNe1bcYiNg4NRgMGIiYOhioFnEat8SEZlYnpiUWJWokII2G06CiGZRaVl-SUlmZWlRRPYGAGvJW5ABwIAAA",
+        "image": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c55477dc60c867953202dcf4687637f2cebd56644b6f7965d1c4d833dac634b5b0fa325ecf9f6a30.jpeg"
+      }
+    ]
+  },
+  "inline_people_also_search_for": [
+    {
+      "title": "Kanjeevaram temples",
+      "items": [
+        {
+          "name": "Sri Ulagalanda Perumal T...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDA_eqEc8OXd2rWIzpWOe9mcGGU7lh3_MeAf-mfN0l2pK8Zl3zRol0&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ulagalantha+Perumal+Temple,+Kanchipuram&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME1LSs6JNxLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMYL1GZll5aYYn2LkBHEsipPNDKESEAOhEillaVmFCHZOBkx3UVqVecEpRm79dH1DIyMDE5P48lOMvCCeYXJRvJFxlnEajJ9UXlhYnJRsAjUmPT7PvPIXo7A3poMbWBgXsaqH5iSmJ-Yk5pVkJCoEpBaV5ibmKISAFegoADUlZ2QWlAI13WKTZDD92Mp0PaHPPl5Q--bJkimlF-OqO5vfdXADACkUw7MdAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAB6BAg9EAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ulagalantha+Perumal+Temple%2C+Kanchipuram&stick=H4sIAAAAAAAAAOOQUeLSz9U3ME1LSs6JNxLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMYL1GZll5aYYn2LkBHEsipPNDKESEAOhEillaVmFCHZOBkx3UVqVecEpRm79dH1DIyMDE5P48lOMvCCeYXJRvJFxlnEajJ9UXlhYnJRsAjUmPT7PvPIXo7A3poMbWBgXsaqH5iSmJ-Yk5pVkJCoEpBaV5ibmKISAFegoADUlZ2QWlAI13WKTZDD92Mp0PaHPPl5Q--bJkimlF-OqO5vfdXADACkUw7MdAQAA"
+        },
+        {
+          "name": "Sri Kanchi Kamakshi Amman Te...",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcR3w_fDU4S3xuhK2D28z1aMo_Fw1RzgSpip21lhgbAL6ByP4XajI0He1F3wtK1-1IrH6Ecx3RBb&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Kamakshi+Amman+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SClLyyo0Es5OzMtKTS1LLErMVShJzS3ISS2OEoEyFDLzFEISczNz8hJTSk8xcoG0GZll5aYYn2IEm2FRnGxmCJUwTUtKzomHSoANR7BzMmC6i9KqzAtOMXLrp-sbGhkZmJjEl59i5AXxDJOL4o2Ms4zTYPyk8sLC4qRkE6gx6fF55pW_GIW9MR3cwMK4iFXUOzE3Mbs4I1PBMTc3EehwsNwtNkkG04-tTNcT-uzjBbVvniyZUnoxrrqz-V0HNwDrs4SHCgEAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAF6BAg9EAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Kamakshi+Amman+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SClLyyo0Es5OzMtKTS1LLErMVShJzS3ISS2OEoEyFDLzFEISczNz8hJTSk8xcoG0GZll5aYYn2IEm2FRnGxmCJUwTUtKzomHSoANR7BzMmC6i9KqzAtOMXLrp-sbGhkZmJjEl59i5AXxDJOL4o2Ms4zTYPyk8sLC4qRkE6gx6fF55pW_GIW9MR3cwMK4iFXUOzE3Mbs4I1PBMTc3EehwsNwtNkkG04-tTNcT-uzjBbVvniyZUnoxrrqz-V0HNwDrs4SHCgEAAA"
+        },
+        {
+          "name": "Varadharaja Perumal Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnA0JwHMOkScv1-R3UTJkvUNkvU_8OjqNnsWBaVU4u0M14G9c24Lvp&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Varadharaja+Perumal+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SClLy8kwEs5OzMtKTS1LLErMVShJzS3ISS2OEoEyFDLzFEISczNz8hJTSk8xcoG0GZll5aYYn2IEm2FRnGxmCJUwTUtKzomHSgANzypEsHMyYLqL0qrMC04xcuun6xsaGRmYmMSXn2LkBfEMk4vijYyzjNNg_KTywsLipGQTqDHp8Xnmlb8Yhb0xHdzAwriIVSoMKJSSASSyEhUCUotKcxNzFELACm6xSTKYfmxlup7QZx8vqH3zZMmU0otx1Z3N7zq4AUwS9VEPAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAJ6BAg9EAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Varadharaja+Perumal+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3SClLy8kwEs5OzMtKTS1LLErMVShJzS3ISS2OEoEyFDLzFEISczNz8hJTSk8xcoG0GZll5aYYn2IEm2FRnGxmCJUwTUtKzomHSgANzypEsHMyYLqL0qrMC04xcuun6xsaGRmYmMSXn2LkBfEMk4vijYyzjNNg_KTywsLipGQTqDHp8Xnmlb8Yhb0xHdzAwriIVSoMKJSSASSyEhUCUotKcxNzFELACm6xSTKYfmxlup7QZx8vqH3zZMmU0otx1Z3N7zq4AUwS9VEPAQAA"
+        },
+        {
+          "name": "Divyadesam Sri Ashtabuja...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpFJ2xF-DD5VdT8UN93GeBlzHJdMqvf4DAKGFu1xCLcYcPdeDosJEc&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Ashtabujakaram&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCpKqzIvMBLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMUL0mWXlphifYuQEcSyKk80MoRKmaUnJOfFQiZSytKxCBDsnA6YbbOspRm79dH1DIyMDE5P48lOMvCCeYXJRvJFxlnEajJ9UXlhYnJRsAjUmPT7PvPIXo7A3poMbWBgXsfI5FmeUJCaVZiVmg-RusUkymH5sZbqe0GcfL6h982TJlNKLcdWdze86uAFMeA8ZBAEAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAN6BAg9EAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Ashtabujakaram&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCpKqzIvMBLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMUL0mWXlphifYuQEcSyKk80MoRKmaUnJOfFQiZSytKxCBDsnA6YbbOspRm79dH1DIyMDE5P48lOMvCCeYXJRvJFxlnEajJ9UXlhYnJRsAjUmPT7PvPIXo7A3poMbWBgXsfI5FmeUJCaVZiVmg-RusUkymH5sZbqe0GcfL6h982TJlNKLcdWdze86uAFMeA8ZBAEAAA"
+        },
+        {
+          "name": "Shri Chitragupta Swamy Te...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUxjx586889Jffb5Z09L-cURU2-0NMM2VT-vt3JeYEPpaQdNdKKY_s&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Chitragupta+temple,+Kanchipuram&stick=H4sIAAAAAAAAAOOQUeLWT9c3NDIyMDGJLzcSzk7My0pNLUssSsxVKEnNLchJLY4SgTIUMvMUQhJzM3PyElNKTzFy6efqGxiZZeWmGJ9i5ARxLIqTzQyhEqZpSck58VCJlLK0rEIEOycDprsorcq84BQjshtOMfKCeIbJRfFGxlnGaTB-UnlhYXFSsgnUmPT4PPPKX4zC3pgObmBhXMQq75yRWVKUmF5aUJIIldBRACpOzsgsKAUqvsUmyWD6sZXpekKffbyg9s2TJVNKL8ZVdza_6-AGAJcNfMsWAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAR6BAg9EAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Chitragupta+temple%2C+Kanchipuram&stick=H4sIAAAAAAAAAOOQUeLWT9c3NDIyMDGJLzcSzk7My0pNLUssSsxVKEnNLchJLY4SgTIUMvMUQhJzM3PyElNKTzFy6efqGxiZZeWmGJ9i5ARxLIqTzQyhEqZpSck58VCJlLK0rEIEOycDprsorcq84BQjshtOMfKCeIbJRfFGxlnGaTB-UnlhYXFSsgnUmPT4PPPKX4zC3pgObmBhXMQq75yRWVKUmF5aUJIIldBRACpOzsgsKAUqvsUmyWD6sZXpekKffbyg9s2TJVNKL8ZVdza_6-AGAJcNfMsWAQAA"
+        },
+        {
+          "name": "Thiruparut... Sri Digambar...",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR4Jjt2msTsqi1jTPQ9_6y8TbK1wJxdzI-ZSB7rhKCtjOYlMTMePeW&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Trilokyanatha+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwuijcyzjJOMxLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMXLp5-obGJll5aYYn2LkBHEsipPNDKESpmlJyTnxUImUsrSsQgQ7JwOmuyityrzgFCM3yBVGRgYmJvHlpxhR3QTjJ5UXFhYnJZtAjUmPzzOv_MUo7I3p4AYWxkWsIiFFmTn52ZWJeYklGYkKIWCpW2ySDKYfW5muJ_TZxwtq3zxZMqX0Ylx1Z_O7Dm4AxJNSMA0BAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAV6BAg9EAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Trilokyanatha+Temple&stick=H4sIAAAAAAAAAOOQUeLVT9c3NEwuijcyzjJOMxLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMXLp5-obGJll5aYYn2LkBHEsipPNDKESpmlJyTnxUImUsrSsQgQ7JwOmuyityrzgFCM3yBVGRgYmJvHlpxhR3QTjJ5UXFhYnJZtAjUmPzzOv_MUo7I3p4AYWxkWsIiFFmTn52ZWJeYklGYkKIWCpW2ySDKYfW5muJ_TZxwtq3zxZMqX0Ylx1Z_O7Dm4AxJNSMA0BAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?gl=in&hl=en&q=Kanjeevaram+temples&stick=H4sIAAAAAAAAAOOQMRLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMXLp5-obGJll5aYYn2LkBHEsipPNDKESpmlJyTnxUImUsrSsQgQ7JwOmuyityrzgFCO3frq-oZGRgYlJfPkpRl4QzzC5KN7IOMs4DcZPKi8sLE5KNoEakx6fZ175i1HYG9PBDSyMi1ixSdxik2Qw_djKdD2hzz5eUPvmyZIppRfjqjub33VwAwCWUpSx_QAAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ4qYDegQIPRAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Kanjeevaram+temples&stick=H4sIAAAAAAAAAOOQMRLOTszLSk0tSyxKzFUoSc0tyEktjhKBMhQy8xRCEnMzc_ISU0pPMXLp5-obGJll5aYYn2LkBHEsipPNDKESpmlJyTnxUImUsrSsQgQ7JwOmuyityrzgFCO3frq-oZGRgYlJfPkpRl4QzzC5KN7IOMs4DcZPKi8sLE5KNoEakx6fZ175i1HYG9PBDSyMi1ixSdxik2Qw_djKdD2hzz5eUPvmyZIppRfjqjub33VwAwCWUpSx_QAAAA"
+    },
+    {
+      "title": "Shiva temple in South",
+      "items": [
+        {
+          "name": "Meenakshi Amman Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTu-Gbb6ih4BwwO9ryQHudBW_gIg-5Lhb-dFrourByPRXSpmxHYNMb9KQH85ZdkvcXneCMjC6dr&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Meenakshi+Amman+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDJLN8wyMhItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdeYkFxvBOSBjYBwLs_jCQhinMNuy2BDOMTM0NDvFyAnimBfnJcFVmRaV5BRBOSnFFvHGWVBOsoFxkmHJL0bRYDQXBoNc2MDCuIhVzDc1NS8xG-gFBcfc3ESgU8GKbrFJMph-bGU6cSt9udmCk5KTznZtrCt997f0q9Z3AHGTBSf_AAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAB6BAhSEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Meenakshi+Amman+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDJLN8wyMhItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdeYkFxvBOSBjYBwLs_jCQhinMNuy2BDOMTM0NDvFyAnimBfnJcFVmRaV5BRBOSnFFvHGWVBOsoFxkmHJL0bRYDQXBoNc2MDCuIhVzDc1NS8xG-gFBcfc3ESgU8GKbrFJMph-bGU6cSt9udmCk5KTznZtrCt997f0q9Z3AHGTBSf_AAAA"
+        },
+        {
+          "name": "Shore Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRvWVYMTe9adO0WQgw9Fb6NaDLJl1ZmVbvOrcL4km0VTyynECwH1jE9A0IIKeFiknJOPZog1jIO&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Shore+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MLIwiy8sNBItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwDthMGKcw27LYEM4xMzQ0O8XICeKYF-clwVWZFpXkFEE5KcUW8cZZUE6ygXGSYckvRtFgNBcGg1zYwMK4iJUnOCO_KFUhBCx1i02SwfRjK9OJW-nLzRaclJx0tmtjXem7v6Vftb4DADsvDHP1AAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAF6BAhSEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Shore+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MLIwiy8sNBItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwDthMGKcw27LYEM4xMzQ0O8XICeKYF-clwVWZFpXkFEE5KcUW8cZZUE6ygXGSYckvRtFgNBcGg1zYwMK4iJUnOCO_KFUhBCx1i02SwfRjK9OJW-nLzRaclJx0tmtjXem7v6Vftb4DADsvDHP1AAAA"
+        },
+        {
+          "name": "Arulmigu Arunachal... Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVnTAmHXATDENVOzzqdzq7OfttVLmdu2gg7zfjSYoMayGB0acILqJT&s=0",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Arunachaleswara+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrMtiw2NBItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjAO2AM4xMzQ0O8XICeKYF-clwVWZFpXkFEE5KcUW8cZZUE6ygXGSYckvRtFgNBcGg1zYwMK4iFXMsag0LzE5IxHo0vLEokSFELCiW2ySDKYfW5lO3EpfbrbgpOSks10b60rf_S39qvUdALKXYbf_AAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAJ6BAhSEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Arunachaleswara+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCrMtiw2NBItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjAO2AM4xMzQ0O8XICeKYF-clwVWZFpXkFEE5KcUW8cZZUE6ygXGSYckvRtFgNBcGg1zYwMK4iFXMsag0LzE5IxHo0vLEokSFELCiW2ySDKYfW5lO3EpfbrbgpOSks10b60rf_S39qvUdALKXYbf_AAAA"
+        },
+        {
+          "name": "Murdeshwar",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQUTnYYe6iu75BtJDnaNtSp5ab0bJGsdah-JZl67Cbu3Mm_Y1bT8uszS8retG-E03CNimCXxSJk&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Murdeshwar&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCo0MzQ0MxItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjFOYbVlsCOeAbDvFyAnimBfnJcFVmRaV5BRBOSnFFvHGWVBOsoFxkmHJL0bRYDQXBoNc2MDCuIiVy7e0KCW1OKM8segWmySD6cdWphO30pebLTgpOels18a60nd_S79qfQcAYJ92F_MAAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAN6BAhSEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Murdeshwar&stick=H4sIAAAAAAAAAOOQUeLSz9U3MCo0MzQ0MxItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjFOYbVlsCOeAbDvFyAnimBfnJcFVmRaV5BRBOSnFFvHGWVBOsoFxkmHJL0bRYDQXBoNc2MDCuIiVy7e0KCW1OKM8segWmySD6cdWphO30pebLTgpOels18a60nd_S79qfQcAYJ92F_MAAAA"
+        },
+        {
+          "name": "Sri Vadakkun... Temple, T...",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcT2Jet0X3SGv0vXtahETZtU15jGqShfeGpsVmEPfs7eVMxcIp7wNrayAUqK88vDJ_YGixyGLoY&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Vadakkunnathan+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC_OSyo0Ei3OyCxLVChJzS3ISVXIzFMozi8tyYgSgQgUg0RCEnMzc_ISU0pPMXKBNBqZ5SQXG8E56YZZcI6FWXxhIYxTmG1ZbAjnmBkamp1iRNgMkzAtKskpgnJSii3ijbOgnGQD4yTDkl-MosFoLgwGubCBhXERq2hYYkpidnZpXl5iSUYi0KVgNbfYJBlMP7YynbiVvtxswUnJSWe7NtaVvvtb-lXrOwDgWir8_QAAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAR6BAhSEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Vadakkunnathan+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MC_OSyo0Ei3OyCxLVChJzS3ISVXIzFMozi8tyYgSgQgUg0RCEnMzc_ISU0pPMXKBNBqZ5SQXG8E56YZZcI6FWXxhIYxTmG1ZbAjnmBkamp1iRNgMkzAtKskpgnJSii3ijbOgnGQD4yTDkl-MosFoLgwGubCBhXERq2hYYkpidnZpXl5iSUYi0KVgNbfYJBlMP7YynbiVvtxswUnJSWe7NtaVvvtb-lXrOwDgWir8_QAAAA"
+        },
+        {
+          "name": "Srikalahasti Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcSz-PqIlsZhUJ0MmiCPMT7U_wXv2hy4_h6e9-u_1Rnz-G_RPeu7sCAhU1Ai8n-kY0HguKN3DPXa&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Srikalahasti+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItKskpMhItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjFOYbVlsCOeYGRqanWLkBHHMi_OS4KrAzoByUoot4o2zoJxkA-Mkw5JfjKLBaC4MBrmwgYVxEatwcFFmdmJOYkZicUmmQghYxS02SQbTj61MJ26lLzdbcFJy0tmujXWl7_6WftX6DgBAVhsi_AAAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAV6BAhSEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Srikalahasti+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDItKskpMhItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFCdJrlJBcbwTnphllwjoVZfGEhjFOYbVlsCOeYGRqanWLkBHHMi_OS4KrAzoByUoot4o2zoJxkA-Mkw5JfjKLBaC4MBrmwgYVxEatwcFFmdmJOYkZicUmmQghYxS02SQbTj61MJ26lLzdbcFJy0tmujXWl7_6WftX6DgBAVhsi_AAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?gl=in&hl=en&q=Shiva+temple+in+South&stick=H4sIAAAAAAAAAOOQMRItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFy6efqGxiZ5SQXG8E56YZZcI6FWXxhIYxTmG1ZbAjnmBkamp1i5ARxzIvzkuCqTItKcoqgnJRii3jjLCgn2cA4ybDkF6NoMJoLg0EubGBhXMSKXeoWmySD6cdWphO30pebLTgpOels18a60nd_S79qfQcAY8UqL_IAAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ4qYDegQIUhAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Shiva+temple+in+South&stick=H4sIAAAAAAAAAOOQMRItzsgsS1QoSc0tyElVyMxTKM4vLcmIEoEIFINEQhJzM3PyElNKTzFy6efqGxiZ5SQXG8E56YZZcI6FWXxhIYxTmG1ZbAjnmBkamp1i5ARxzIvzkuCqTItKcoqgnJRii3jjLCgn2cA4ybDkF6NoMJoLg0EubGBhXMSKXeoWmySD6cdWphO30pebLTgpOels18a60nd_S79qfQcAY8UqL_IAAAA"
+    },
+    {
+      "title": "Temples near rivers in India",
+      "items": [
+        {
+          "name": "Sree Padmanab... Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRpNY_ivBKyvE5cr7ZXjpVolgbXbYY4SYiXG7xs0uy7ABZ95h1lw8ItCzR4rKdiPMi_AmUoqpri&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Padmanabhaswamy+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME8zyC4xkilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUaEYVCJZBND86JiqIRZdrKpCUyHWVZOcjpUwtIwL80QyjYsqDDMhioyTYrPSa-AcrLMc4qyy04x8uqn6xsapqTEZ2cUV-X9YpQJwe5qT5CrG1gYF7GKBSSm5CbmJSZlJBaXJ-ZWKkB03GKTZDD92MpkeuMkxz2T7DtJO4TT7R7LKOYJBNQCAKBz-m8ZAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAB6BAhQEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Padmanabhaswamy+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3ME8zyC4xkilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUaEYVCJZBND86JiqIRZdrKpCUyHWVZOcjpUwtIwL80QyjYsqDDMhioyTYrPSa-AcrLMc4qyy04x8uqn6xsapqTEZ2cUV-X9YpQJwe5qT5CrG1gYF7GKBSSm5CbmJSZlJBaXJ-ZWKkB03GKTZDD92MpkeuMkxz2T7DtJO4TT7R7LKOYJBNQCAKBz-m8ZAQAA"
+        },
+        {
+          "name": "Tirumala",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQLxBsY29M-TPxt3CnVzTH12zTSUK9xvEoyFnvd8KKli0NGvhj4zJk9cAghPDniH0YZRodWLOHe&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Tirumala&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDYxNC8qNpIpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI9gAIwuz-MLCU4ycII55mkF2CVQCYjJUwiw72dQEpsMsKyc5HSphaZiXZghlGxZUGGZDFZkmxeekV0A5WeY5Rdllpxh59dP1DQ1TUuKzM4qr8n4xyoRgd7UnyNUNLIyLWDlCMotKcxNzEm-xSTKYfmxlMr1xkuOeSfadpB3C6XaPZRTzBAJqASW6GzwMAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAF6BAhQEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Tirumala&stick=H4sIAAAAAAAAAOOQUeLSz9U3SDYxNC8qNpIpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI9gAIwuz-MLCU4ycII55mkF2CVQCYjJUwiw72dQEpsMsKyc5HSphaZiXZghlGxZUGGZDFZkmxeekV0A5WeY5Rdllpxh59dP1DQ1TUuKzM4qr8n4xyoRgd7UnyNUNLIyLWDlCMotKcxNzEm-xSTKYfmxlMr1xkuOeSfadpB3C6XaPZRTzBAJqASW6GzwMAQAA"
+        },
+        {
+          "name": "Shri Kashi Vishwanath Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTYY8nKZGshOZPx3NQiiyQr1NZWQuXZ6wUzhVoD-FIo3sUIhXJh0ksc3cjAR9cNflvwsbBPnaEG&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Kashi+Vishwanath+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtONjUxkilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKoBNgWmA6zrJzkdKiEpWFemiGUbVhQYZgNVWSaFJ-TXgHlZJnnFGWXnWLk1U_XNzRMSYnPziiuyvvFKBOC3dWeIFc3sDAuYhX3TizOyFQIyyzOKE_MSyzJUIBoucUmyWD6sZXJ9MZJjnsm2XeSdgin2z2WUcwTCKgFAIbk4S0aAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAJ6BAhQEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Kashi+Vishwanath+Temple&stick=H4sIAAAAAAAAAOOQUeLUz9U3MMtONjUxkilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKoBNgWmA6zrJzkdKiEpWFemiGUbVhQYZgNVWSaFJ-TXgHlZJnnFGWXnWLk1U_XNzRMSYnPziiuyvvFKBOC3dWeIFc3sDAuYhX3TizOyFQIyyzOKE_MSyzJUIBoucUmyWD6sZXJ9MZJjnsm2XeSdgin2z2WUcwTCKgFAIbk4S0aAQAA"
+        },
+        {
+          "name": "Kedarnath Temple",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcRONbT5YXNoY2hq82pBq3EUeA77MZ6ZOHZHDMl459X620Exj6ngU2QycyBn6L6RHIfRDWWviPff&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Kedarnath+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDLLyklON5IpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI8QAC7P4wsJTjJwgjnmaQXYJVCLZxNC8qBgqYZadbGoC0wG2EiphaZiXZghlGxZUGGZDFZkmxeekV0A5WeY5Rdllpxh59dP1DQ1TUuKzM4qr8n4xyoRgd7UnyNUNLIyLWAW8U1MSi_ISSzIUIGpvsUkymH5sZTK9cZLjnkn2naQdwul2j2UU8wQCagEvKX48FAEAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAN6BAhQEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Kedarnath+Temple&stick=H4sIAAAAAAAAAOOQUeLSz9U3MDLLyklON5IpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI8QAC7P4wsJTjJwgjnmaQXYJVCLZxNC8qBgqYZadbGoC0wG2EiphaZiXZghlGxZUGGZDFZkmxeekV0A5WeY5Rdllpxh59dP1DQ1TUuKzM4qr8n4xyoRgd7UnyNUNLIyLWAW8U1MSi_ISSzIUIGpvsUkymH5sZTK9cZLjnkn2naQdwul2j2UU8wQCagEvKX48FAEAAA"
+        },
+        {
+          "name": "Akshardham",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcQjvrI-3tX6fz80dbMOpWTAfGOJFmpYMs-6Y1iaXHsx7YEHhYNuwGYEoc2jSXuZaoSTP5-7R7iu&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Akshardham&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDTMSzM0kilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKohFl2sqkJTIdZVk5yOlQCbD2UbVhQYZgNVWSaFJ-TXgHlZJnnFGWXnWLk1U_XNzRMSYnPziiuyvvFKBOC3dWeIFc3sDAuYuVyzC7OSCxKyUjMvcUmyWD6sZXJ9MZJjnsm2XeSdgin2z2WUcwTCKgFAHbriAYNAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAR6BAhQEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Akshardham&stick=H4sIAAAAAAAAAOOQUeLUz9U3sDTMSzM0kilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKohFl2sqkJTIdZVk5yOlQCbD2UbVhQYZgNVWSaFJ-TXgHlZJnnFGWXnWLk1U_XNzRMSYnPziiuyvvFKBOC3dWeIFc3sDAuYuVyzC7OSCxKyUjMvcUmyWD6sZXJ9MZJjnsm2XeSdgin2z2WUcwTCKgFAHbriAYNAQAA"
+        },
+        {
+          "name": "Khajuraho",
+          "image": "https://encrypted-tbn0.gstatic.com/licensed-image?q=tbn:ANd9GcTBbj3eSADE1Rh214MmbBZsnRmhYWP5zQcziqM1OPX_BC9-bjIqIdwDGwLxRy1yYk5KQqyriK1x&s=19",
+          "link": "https://www.google.co.in/search?gl=in&hl=en&q=Khajuraho&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCyoMMw2kilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKohFl2sqkJTIdZVk5yOlTC0jAvzRDKBjsFqsg0KT4nvQLKyTLPKcouO8XIq5-ub2iYkhKfnVFclfeLUSYEu6s9Qa5uYGFcxMrpnZGYVVqUmJF_i02SwfRjK5PpjZMc90yy7yTtEE63eyyjmCcQUAsAC7EzfAwBAAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQs9oBKAV6BAhQEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Khajuraho&stick=H4sIAAAAAAAAAOOQUeLUz9U3MCyoMMw2kilJzS3ISS1WyEtNLFIoyixLLSpWyMwDopTMxCgRmCxQJCQxNzMnLzGl9BQjF0i_kYVZfGHhKUawYeZpBtklUIlkE0PzomKohFl2sqkJTIdZVk5yOlTC0jAvzRDKBjsFqsg0KT4nvQLKyTLPKcouO8XIq5-ub2iYkhKfnVFclfeLUSYEu6s9Qa5uYGFcxMrpnZGYVVqUmJF_i02SwfRjK5PpjZMc90yy7yTtEE63eyyjmCcQUAsAC7EzfAwBAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.co.in/search?gl=in&hl=en&q=Temples+near+rivers+in+India&stick=H4sIAAAAAAAAAOOQMZIpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI5d-rr6BkYVZfGHhKUZOEMc8zSC7BCqRbGJoXlQMlTDLTjY1gekwy8pJTodKWBrmpRlC2YYFFYbZUEWmSfE56RVQTpZ5TlF22SlGXv10fUPDlJT47IziqrxfjDIh2F3tCXJ1AwvjIla8Km6xSTKYfmxlMr1xkuOeSfadpB3C6XaPZRTzBAJqAUs9JxwUAQAA&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ4qYDegQIUBAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=Temples+near+rivers+in+India&stick=H4sIAAAAAAAAAOOQMZIpSc0tyEktVshLTSxSKMosSy0qVsjMA6KUzMQoEZgsUCQkMTczJy8xpfQUI5d-rr6BkYVZfGHhKUZOEMc8zSC7BCqRbGJoXlQMlTDLTjY1gekwy8pJTodKWBrmpRlC2YYFFYbZUEWmSfE56RVQTpZ5TlF22SlGXv10fUPDlJT47IziqrxfjDIh2F3tCXJ1AwvjIla8Km6xSTKYfmxlMr1xkuOeSfadpB3C6XaPZRTzBAJqAUs9JxwUAQAA"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "How many temples are in Tamil Nadu?",
+      "snippet": "As per Tamil Nadu Hindu Endowments Board, there are 38,615 temples. Most of the largest Hindu temples reside here.",
+      "title": "List of temples in Tamil Nadu - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_temples_in_Ta..."
+    },
+    {
+      "question": "Which temple is powerful in Tamil Nadu?",
+      "snippet": "1. Meenakshi Amman Temple, Madurai. Meenakshi Amman Temple, located in Madurai, is one of the famous Shiva temples in Tamil Nadu which was built during the Nayak rule. Also known as the Meenakshi-Sundareshwar Temple, it is dedicated to Goddess Parvati as Meenakshi and her consort Lord Shiva as Sundareshwar.05-Feb-2021",
+      "title": "15 Famous Temples in Tamil Nadu | Veena World",
+      "link": "https://www.veenaworld.com/blog/15-famous-temples-in-tamil-nadu",
+      "displayed_link": "https://www.veenaworld.com › blog › 15-famous-templ..."
+    },
+    {
+      "question": "What is famous temple Tamil Nadu?",
+      "snippet": "Nataraja Temple, Chidambaram One of the most famous temples in Tamil Nadu, the Nataraja temple is located in the heart of the temple town of Chidambaram. This temple is one of the Panch Bhootha Sthalas representing one of the five natural elements akasha (aether).27-Nov-2021",
+      "title": "Visit These 15 Temples in Tamil Nadu for Spiritual Awakening",
+      "link": "https://www.indianholiday.com/blog/famous-temples-tamil-nadu/",
+      "displayed_link": "https://www.indianholiday.com › blog › famous-temple..."
+    },
+    {
+      "question": "Which is the oldest temple in Tamil Nadu?",
+      "title": "The temple is Tamil Nadu's oldest shrine to Murugan. It is also believed to be one of only two pre-Pallava temples to be discovered in the state, the other being the Veetrirundha Perumal Temple at Veppathur....",
+      "link": "https://en.wikipedia.org/wiki/Murugan_Temple,_Saluvankuppam",
+      "displayed_link": "https://en.wikipedia.org › wiki › Murugan_Temple,_Salu..."
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "20 Famous Temples in Tamil Nadu | Religious Places",
+      "link": "https://www.tourmyindia.com/blog/famous-temples-in-tamil-nadu/",
+      "displayed_link": "https://www.tourmyindia.com › blog › famous-temples-...",
+      "thumbnail": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c739b574c004f7f74b8c32d41a71913835a.jpeg",
+      "date": "06-May-2021",
+      "snippet": "Located in Kanchipuram district of Tamilnadu, the 'Kanchi Kailasanathar Temple' is another one of the most famous pilgrim centres in South India ...",
+      "snippet_highlighted_words": [
+        "Tamilnadu",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "tourmyindia.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c7357c43fc67d30a27fa2c89da190518ac5d3332183577544615839be765eaf5011.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.tourmyindia.com/blog/famous-temples-in-tamil-nadu/&tbm=ilp&ilps=ADNMCi1lTk76xdAHr_oTkO-2A4v7PbcHKg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:9iGKOGDmBpIJ:https://www.tourmyindia.com/blog/famous-temples-in-tamil-nadu/+&cd=1&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?gl=in&hl=en&q=related:https://www.tourmyindia.com/blog/famous-temples-in-tamil-nadu/+temples+in+Tamilnadu"
+    },
+    {
+      "position": 2,
+      "title": "Top 17 Temples In Tamilnadu - TourismTN",
+      "link": "https://tourismtn.com/temples-in-tamilnadu/",
+      "displayed_link": "https://tourismtn.com › temples-in-tamilnadu",
+      "thumbnail": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73ba2d9280c1419dd4d6160ad94f79880b.jpeg",
+      "date": "01-Mar-2021",
+      "snippet": "Here is the List of Famous Temples In Tamilnadu ; 3. Sri Ranganatha Swamy Temple, Tiruchirappalli ; 4. Annamalaiyer Temple, Thiruvannamalai ; 5.",
+      "snippet_highlighted_words": [
+        "Temples In Tamilnadu"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "tourismtn.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73813e5afb0b63a71b6ae3054791e4b04f8c62717e596870d82c70cad730d9bdb9.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://tourismtn.com/temples-in-tamilnadu/&tbm=ilp&ilps=ADNMCi3lahFsN1Fj1oJnLU4pNa9hTYsshg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:tkZ1w1j0QdUJ:https://tourismtn.com/temples-in-tamilnadu/+&cd=12&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 3,
+      "title": "List of temples in Tamil Nadu - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu",
+      "displayed_link": "https://en.wikipedia.org › wiki › List_of_temples_in_Ta...",
+      "thumbnail": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c739173664cd740abc9ecd83695e9fc932b.jpeg",
+      "snippet": "Tamil Nadu has more temples than any other states of India. Tamil Nadu is home to more than 40,000 Hindu temples and is aptly called \"the land of temples\" by ...",
+      "snippet_highlighted_words": [
+        "Tamil Nadu",
+        "temples",
+        "Tamil Nadu",
+        "temples",
+        "temples"
+      ],
+      "sitelinks": {
+        "inline": [
+          {
+            "title": "Temples of Lord Pillaiyar",
+            "link": "https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu#Temples_of_Lord_Pillaiyar"
+          },
+          {
+            "title": "Temples of Lord Murugan",
+            "link": "https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu#Temples_of_Lord_Murugan"
+          },
+          {
+            "title": "Temples of Lord Shiva",
+            "link": "https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu#Temples_of_Lord_Shiva"
+          }
+        ]
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers through open collaboration and a wiki-based editing system. Individual contributors, also called editors, are known as Wikipedians. Wikipedia is the largest and most-read reference work in history.",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c7393c55609df5a6c8ab186dbed7158fb92b1105f34f60de11c11687ceb886328b0.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu&tbm=ilp&ilps=ADNMCi3d-90-BWTQmF72OMnZHqSpxZWYSw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:lQsrq8ZFG7QJ:https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu+&cd=13&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?gl=in&hl=en&q=related:https://en.wikipedia.org/wiki/List_of_temples_in_Tamil_Nadu+temples+in+Tamilnadu"
+    },
+    {
+      "position": 4,
+      "title": "15 Famous Temples in Tamil Nadu | Veena World",
+      "link": "https://www.veenaworld.com/blog/15-famous-temples-in-tamil-nadu",
+      "displayed_link": "https://www.veenaworld.com › blog › 15-famous-templ...",
+      "thumbnail": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73040b37641de348035eee98613bec7ab0.jpeg",
+      "date": "05-Feb-2021",
+      "snippet": "1. Meenakshi Amman Temple, Madurai · 2. Sri Laxmi Narayanan Golden Temple, Vellore · 3. Bala Murugan Temple, Siruvapuri · 4. Navapashanam Temple, ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "veenaworld.com was first indexed by Google in May 2013",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73ac280f6112825e0f1506a0205db42a35552c2e2488fe38ff54a8c1f15382ea41.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.veenaworld.com/blog/15-famous-temples-in-tamil-nadu&tbm=ilp&ilps=ADNMCi2vn5TnHt-4Zh0bQYOQD9suOev8wg",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:4qjpvjndVRsJ:https://www.veenaworld.com/blog/15-famous-temples-in-tamil-nadu+&cd=14&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 5,
+      "title": "Temples in Tamil Nadu You Must Visit For Spiritual ...",
+      "link": "https://www.indianholiday.com/blog/famous-temples-tamil-nadu/",
+      "displayed_link": "https://www.indianholiday.com › blog › famous-temple...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKg8YGF8sUMKFe6kvqXRyAzjyabcBDX8Ye3FeUdSp0-sGteBj9bfU0&usqp=CAE&s",
+      "date": "27-Nov-2021",
+      "snippet": "Kapaleeswarar Temple; Brihadeeswarar Temple; Meenakshi Temple; Ramanathaswamy Temple; Kumari Amman temple; Naganathaswamy Temple; Ramaswamy ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple",
+        "Temple",
+        "Temple",
+        "temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "indianholiday.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c732ed0a75492f4e6fb74831122998650e13f648003b1f1b826f3dc76766b44b42d.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.indianholiday.com/blog/famous-temples-tamil-nadu/&tbm=ilp&ilps=ADNMCi3mxBiVugF-j-ERBR8wp4_wUK0r7A",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:WE3ek45EdhAJ:https://www.indianholiday.com/blog/famous-temples-tamil-nadu/+&cd=15&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?gl=in&hl=en&q=related:https://www.indianholiday.com/blog/famous-temples-tamil-nadu/+temples+in+Tamilnadu"
+    },
+    {
+      "position": 6,
+      "title": "5 Most Famous Temples in Tamil Nadu - Trans India Travels",
+      "link": "https://www.transindiatravels.com/tamil-nadu/temples-in-tamil-nadu/",
+      "displayed_link": "https://www.transindiatravels.com › Tamil Nadu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjRkE5RzYmzwMFOVJ9aDR3q1X7Xnp4Et037mQQeCb1d45BoJh5zTjP&usqp=CAE&s",
+      "snippet": "5 Most Famous Temples in Tamil Nadu · 1. Kapaleeswarar Temple, Chennai · 2. Meenakshi Temple, Madurai · 3. Ramanathaswamy Temple, Rameshwaram · 4. Nataraja Temple, ...",
+      "snippet_highlighted_words": [
+        "Temples in Tamil Nadu"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "transindiatravels.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c7379c9339ed5235bea16b57dad701780534fd518cad0f5632b1019025e111fa9d4.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.transindiatravels.com/tamil-nadu/temples-in-tamil-nadu/&tbm=ilp&ilps=ADNMCi26eJwPWFlnSeDIXwR3HNuPKxzLfw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7pzvLG2R61UJ:https://www.transindiatravels.com/tamil-nadu/temples-in-tamil-nadu/+&cd=16&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 7,
+      "title": "44 Best Pilgrimage Sites in Tamil Nadu - Trawell.in",
+      "link": "https://www.trawell.in/tamilnadu/pilgrimages",
+      "displayed_link": "https://www.trawell.in › tamilnadu › pilgrimages",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJt0OmDnQ--dKwGqHp26POdAa35W6qbsCYnXK7vsHaAJ_O7tI9Bj-O&usqp=CAE&s",
+      "snippet": "Sri Ramanathaswamy Temple, Agnitheertham, Gandamadana Parvatham, Dhanushkodi, Kothandaraswamy Temple and Erwadi are some of the most visited attractions of ...",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "trawell.in was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73bb5e7b74b405b81f4d99b61cd377a3b28360df3de484c319dd4dcd3e88fee89a.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.trawell.in/tamilnadu/pilgrimages&tbm=ilp&ilps=ADNMCi335Pp-f5H1CeMh_bTH3dFDfotfeA",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:H9uU5VgFimAJ:https://www.trawell.in/tamilnadu/pilgrimages+&cd=17&hl=en&ct=clnk&gl=in",
+      "related_pages_link": "https://www.google.co.in/search?gl=in&hl=en&q=related:https://www.trawell.in/tamilnadu/pilgrimages+temples+in+Tamilnadu"
+    },
+    {
+      "position": 8,
+      "title": "Top 10 Most Famous Temples to Explore in Tamil Nadu",
+      "link": "https://www.tusktravel.com/blog/top-most-famous-temples-of-tamil-nadu/",
+      "displayed_link": "https://www.tusktravel.com › blog › top-most-famous-t...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPmWlfZeFQxLtQ60MJ_HY3F4Ne0614bSpsBycYIckMu2SwnVgcr1na&usqp=CAE&s",
+      "date": "05-Mar-2021",
+      "snippet": "List of the 10 Most Popular Temple in Tamil Nadu:.",
+      "snippet_highlighted_words": [
+        "Temple in Tamil Nadu"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "tusktravel.com was first indexed by Google more than 10 years ago",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c73a778e10927b20c1b1dbd9f96887144bca08a95bd21347398b63cc3c2e685f32b.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.tusktravel.com/blog/top-most-famous-temples-of-tamil-nadu/&tbm=ilp&ilps=ADNMCi0n4Y501zxXN9HZO6Is66Hu9umIAw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:m_fTN6mBdTsJ:https://www.tusktravel.com/blog/top-most-famous-temples-of-tamil-nadu/+&cd=18&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 9,
+      "title": "10 Famous Temple in Tamil Nadu in 2021 - Holy Places to ...",
+      "link": "https://www.revv.co.in/blogs/temple-in-tamil-nadu/",
+      "displayed_link": "https://www.revv.co.in › blogs › temple-in-tamil-nadu",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaM7BXzv2E8j1mEicqrEq1Yb912YxKLINIguVWMgkWAN8zYorCL6xk&usqp=CAE&s",
+      "snippet": "10 Famous Temples in Tamil Nadu · Meenakshi Temple · Chidambaram Kapaleeswarar · Madurai Murugan Temple · Rameshwaram Temple · Kanyakumari Temple · Sivagiri ...",
+      "snippet_highlighted_words": [
+        "Temples in Tamil Nadu"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "revv.co.in was first indexed by Google in June 2015",
+          "icon": "https://serpapi.com/searches/62b0af88477c0eea070e70cb/images/c895e671045ffa3333418d9f768b2c736f0b04a8210a288c6e80028dee8a5350d5021eb26c4c221cf6761f2d91001f7c.png"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://www.revv.co.in/blogs/temple-in-tamil-nadu/&tbm=ilp&ilps=ADNMCi1_U8ULk73COHNpxncVllivAmbcnw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:YCpRsLnosUAJ:https://www.revv.co.in/blogs/temple-in-tamil-nadu/+&cd=19&hl=en&ct=clnk&gl=in"
+    },
+    {
+      "position": 10,
+      "title": "11 places you must visit to see the great temples of Tamil ...",
+      "link": "https://blog.shantitravel.com/en/thematic-travel/adventure-discovery/11-places-to-visit-see-great-temples-of-tamil-nadu.htm",
+      "displayed_link": "https://blog.shantitravel.com › adventure-discovery › 1...",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXIl2g0Nia9Wd6Y-zl-FUkiFooJI1oRvWZhK86bttsXSY-YuQ4PTBK&usqp=CAE&s",
+      "date": "16-Jul-2015",
+      "snippet": "1. Mahabalipuram · 2. Kanchipuram · 3. Thiruvanamalai · 4. Kumbakonam · 5. Temple of Gangaikonda Cholapuram · 6. Nataraja Temple in Chidambaram · 7.",
+      "snippet_highlighted_words": [
+        "Temple",
+        "Temple"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "blog.shantitravel.com was first indexed by Google in September 2012"
+        }
+      },
+      "about_page_link": "https://www.google.co.in/search?q=About+https://blog.shantitravel.com/en/thematic-travel/adventure-discovery/11-places-to-visit-see-great-temples-of-tamil-nadu.htm&tbm=ilp&ilps=ADNMCi2YgYuzJho-vLjNE5wGZL6xteIylw",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:b6YBnkLQtTcJ:https://blog.shantitravel.com/en/thematic-travel/adventure-discovery/11-places-to-visit-see-great-temples-of-tamil-nadu.htm+&cd=20&hl=en&ct=clnk&gl=in"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "temples in tamilnadu open",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=Temples+in+Tamilnadu+open&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhZEAE"
+    },
+    {
+      "query": "powerful temples in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=Powerful+temples+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhUEAE"
+    },
+    {
+      "query": "famous temples in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=Famous+temples+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhYEAE"
+    },
+    {
+      "query": "5000 years old temple in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=5000+years+old+temple+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhaEAE"
+    },
+    {
+      "query": "tamil nadu temples list district wise",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=Tamil+Nadu+temples+list+District+wise&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhXEAE"
+    },
+    {
+      "query": "oldest temple in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=Oldest+temple+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhTEAE"
+    },
+    {
+      "query": "10 famous temples in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=10+famous+temples+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhVEAE"
+    },
+    {
+      "query": "how many temples in tamilnadu",
+      "link": "https://www.google.co.in/search?gl=in&hl=en&q=How+many+temples+in+Tamilnadu&sa=X&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ1QJ6BAhWEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=10&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8NMDegQIARBP",
+    "other_pages": {
+      "2": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=10&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARA9",
+      "3": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=20&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARA_",
+      "4": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=30&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBB",
+      "5": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=40&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBD",
+      "6": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=50&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBF",
+      "7": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=60&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBH",
+      "8": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=70&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBJ",
+      "9": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=80&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBL",
+      "10": "https://www.google.co.in/search?q=temples+in+Tamilnadu&gl=in&hl=en&ei=iK-wYqydMv7n5NoP5YSliA4&start=90&sa=N&ved=2ahUKEwisgcaTyLz4AhX-M1kFHWVCCeEQ8tMDegQIARBN"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=80",
+      "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=in&google_domain=google.co.in&hl=en&num=10&q=temples+in+Tamilnadu&start=90"
+    }
+  }
+}
