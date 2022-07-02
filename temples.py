@@ -117,6 +117,13 @@ headers = {
 #----------------------------------------------------------------
 print("\nName of Temple given as a input:", sys.argv[1])
 #----------------------------------------------------------------------------------------------------
+templeslistsck = []
+
+for t in (templeslisings):
+    if t not in templeslistsck:
+        print(t)
+        templeslistsck.append(t)
+
 templeslistsck = [ sys.argv[1] ]
 #----------------------------------------------------------------------------------------------------
 statename = "west bengal"
@@ -172,44 +179,6 @@ else:
     exit(1)
 #-------------------------------------------------------------
 
-def templelocation(stringtemplelist):
-    
-    patterns = ["X97X+PW7"]
-    if (stringtemplelist):
-            
-            if (stringtemplelist[0] == patterns [0]):
-                lookingaddress = stringtemplelist[2].strip()
-                
-                if (lookingaddress):
-                    addtemple(lookingaddress, mys)
-
-            if ( stringtemplelist[0].isdigit() ):
-                lookingaddress = stringtemplelist[3].strip()
-
-                if (lookingaddress):
-                    addtemple(lookingaddress, mys)               
-
-            if ( stringtemplelist[0] == mys):
-                lookingaddress = stringtemplelist[1].strip()
-
-                if (lookingaddress):
-                    addtemple(lookingaddress, mys)
-
-
-                for n in [1,3]:
-                    lookingaddress = ''
-                    searchp1 = str(stringtemplelist[n]).strip()
-                    w = re.sub(r'[^0-9]','',str(searchp1))
-                    #print(w,n)
-                    if(searchp1):
-                        if ( w.isdigit() ):
-                            i = n -1
-                            lookingaddress = stringtemplelist[i].strip()
-            
-                        if (lookingaddress):
-                            addtemple(lookingaddress, mys)
-
-    return lookingaddress
 #------------------------------------------------------------------
 tp =  [] 
 def addtemple(lookingaddress, mys):
@@ -257,22 +226,48 @@ for t in range(0, len(templeslistsck)):
                     pat1 = 'X97X+PW7'
                     if (tl[0] == pat1):
                         lookingaddress = tl[2]
+                        res = len(re.findall(r'\w+', lookingaddress))
+
+                        print ('Lenth', res, '---------')
                         print(tl)
-                        addtemple(lookingaddress, mys)
+                        if (res == 1):
+                            addtemple(lookingaddress, mys)
 
                 if not lookingaddress:
                     for x in s1:
                         ul += ''+ str(x)
                         m = [ x.strip() for x in ''.join(ul).strip('[]').split('</span>') ]
+                        print (m)
   
-        if (len(m) >= 7):
+        if (len(m) >= 8):
         
             la = ''
             la = [ x.strip() for x in ''.join(m[0]).strip('[]').split(',') ]
-            lookingaddress = la[-2].strip()
+            #lookingaddress = la[-2].strip()
+            print (la)
+            print ('len --------------', len(la))
+            res = len(re.findall(r'\w+', str(la)))
+
+            print ('Lenth', res, '---------')
             #lookingaddress = la[1]
-            addtemple(lookingaddress, mys)
-          
+            if (res == 1):
+                addtemple(lookingaddress, mys)
+        
+        if (len(m) == 8):
+            la = ''
+            la = [ x.strip() for x in ''.join(m[0]).strip('[]').split(',') ]
+            #lookingaddress = la[-2].strip()
+            print (la)
+            print ('len --------------', len(la))
+            res = len(re.findall(r'\w+', str(la)))
+
+            print ('Lenth', res, '---------')
+            
+            if (res >= 1):
+                lookingaddress = la[1]
+            
+                addtemple(lookingaddress, mys)
+        
             print('-----------------------------------------------')
         #print('-----------------------------------------------')
         #print(soupspanfindingall1)
