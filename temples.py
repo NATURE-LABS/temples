@@ -193,17 +193,38 @@ def googling(search):
     html1 = requests.get('https://www.google.com/search', 
     headers=headers, params=params1).text
     soup1 = BeautifulSoup(html1, 'lxml')
-    
-    soupspanfindingall1 = soup1.find_all("span", class_="BNeawe")
-    ul = ''
-    for x in soupspanfindingall1:
-        ul += ''+ str(x)
-        #lookingaddress = lookingaddress.split(' ')[-4]
-        #print('lookingaddress', lookingaddress)
-        #print(ul)
-        m = [ x.strip() for x in ''.join(ul).strip('[]').split(' ') ]
-    #print(m)
-    #print('-----------------------------------------------')
+    diving1 = soup1.find_all("div", {"class": "BNeawe tAd8D AP7Wnd"})
+    if (len(diving1) > 1):
+        diving1_1 = soup1.find_all("div", {"class": "BNeawe tAd8D AP7Wnd"})[0]
+        print(diving1_1)
+        ul = ''
+        for x in diving1_1:
+            ul += ''+ str(x)
+            #lookingaddress = lookingaddress.split(' ')[-4]
+            #print('lookingaddress', lookingaddress)
+            #print(ul)
+            m = [ x.strip() for x in ''.join(ul).strip('[]').split(' ') ]
+            print(m)
+            lookingaddress = ''
+            lookingaddress = m[2]
+            lookingaddress = re.sub(r"[^a-zA-Z]+",'',lookingaddress)
+        print(lookingaddress)
+        print('-----------------------------------------------')
+    else:
+        soupspanfindingall1 = soup1.find_all("span", class_="BNeawe")
+        ul = ''
+        for x in soupspanfindingall1:
+            ul += ''+ str(x)
+            #lookingaddress = lookingaddress.split(' ')[-4]
+            #print('lookingaddress', lookingaddress)
+            #print(ul)
+            m = [ x.strip() for x in ''.join(ul).strip('[]').split(' ') ]
+            print(m)
+            lookingaddress = ''
+            lookingaddress = m[2]
+            lookingaddress = re.sub(r"[^a-zA-Z]+",'',lookingaddress)
+        print(lookingaddress)
+        print('-----------------------------------------------')
     #print('-----------------------------------------------')
     #print(soupspanfindingall1)
     #print('-----------------------------------------------')
@@ -211,35 +232,8 @@ def googling(search):
     pi="\'Google Search for :  \' :"
     p = ("{} {}".format(pi,search))
     prt(p)
-    return soupspanfindingall1
+    return lookingaddress
 #---------------------------------------------------------------- 
-
-#-------------------------------------------------------------------- 
-templeslists = []
-
-for t in range(0, len(templeslistsck)):
-    if t is not (templeslists):
-        k = ''
-        k = templeslistsck[t]
-        templemano = re.sub(r'[^a-zA-Z]', ' ', str(k).strip())
-        search = ("{}{}{}{}".format(k, " temple in ",  statename, " location"))
-        #print ('search --:', search)
-        templesgetaroanam = ''
-        templesgetaroanam = googling(search)
-        if (templesgetaroanam):
-            #print('temple kadaul:-------------: ', templesgetaroanam)
-            #print('------------------')
-            
-            templeslists.append(k)
-#----------------------------------------------------------------
-patten = ("{}{}{}".format('<span class="BNeawe tAd8D AP7Wnd">', 
-    "([^$]*)", 
-    '</span>'))
-#----------------------------------------------------------------
-def common_elemets(a, b):
-    ce = [i for i in a if i in b]
-    return ce
-#-----------------------------------------------------------------
 tp =  [] 
 def addtemple(lookingaddress, mys):
     templelocation = ''
@@ -251,6 +245,36 @@ def addtemple(lookingaddress, mys):
     tp.append(pt)
     return tp
 #----------------------------------------------------------------------------
+#-------------------------------------------------------------------- 
+templeslists = []
+
+for t in range(0, len(templeslistsck)):
+    if t is not (templeslists):
+        k = ''
+        k = templeslistsck[t]
+        templemano = re.sub(r'[^a-zA-Z]', ' ', str(k).strip())
+        search = ("{}{}{}{}".format(k, " temple in ",  statename, " location"))
+        #print ('search --:', search)
+        lookingaddress = ''
+        lookingaddress = googling(search)
+        print('------------------')
+        print(lookingaddress)
+        print('------------------')
+        if (lookingaddress):
+            #print('temple kadaul:-------------: ', templesgetaroanam)
+            #print('------------------')
+            addtemple(lookingaddress, k)
+            #templeslists.append(k)
+#----------------------------------------------------------------
+patten = ("{}{}{}".format('<span class="BNeawe tAd8D AP7Wnd">', 
+    "([^$]*)", 
+    '</span>'))
+#----------------------------------------------------------------
+def common_elemets(a, b):
+    ce = [i for i in a if i in b]
+    return ce
+#-----------------------------------------------------------------
+
 def completetagging(g):
     ca = ''
     ca = common_elemets(['a'], g)
