@@ -247,10 +247,10 @@ for t in range(0, len(templeslistsck)):
             print (la)
             print ('len --------------', len(la))
             res = len(re.findall(r'\w+', str(la)))
-
             print ('Lenth', res, '---------')
             #lookingaddress = la[1]
-            if (res == 1):
+            if (res >= 1):
+                lookingaddress = la[2]
                 addtemple(lookingaddress, mys)
         
         if (len(m) == 8):
