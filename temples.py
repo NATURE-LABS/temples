@@ -245,20 +245,26 @@ for t in range(0, len(templeslistsck)):
             la = [ x.strip() for x in ''.join(m[0]).strip('[]').split(',') ]
             #lookingaddress = la[-2].strip()
             print (la)
-            print ('length ::: -------------- ::', len(la))
+            lla = len(la)
+            print ('length of Span ::: -------------- ::', lla)
             res = len(re.findall(r'\w+', str(la)))
+            
             print ('StringLength', res, '---------')
             #lookingaddress = la[1]
-            if (res >= 1):
-                if (len(la) == 8):
-                    lookingaddress = la[1]
-                if (len(la) == 5):
-                    lookingaddress = la[3]
-              
-                if not lookingaddress:
-                    lookingaddress = la[2]
 
-            addtemple(lookingaddress, mys)
+            conditions = [res >= 1, lla >= 8]
+            lookingaddress = ''
+            if (conditions):
+                    if (len(la) == 8):
+                        lookingaddress = la[1]
+                    if (len(la) == 5):
+                        lookingaddress = la[3]
+                
+                    if not lookingaddress:
+                        lookingaddress = la[2]
+
+            if(lookingaddress):
+                addtemple(lookingaddress, mys)
             
             print('-----------------------------------------------')
         #print('-----------------------------------------------')
