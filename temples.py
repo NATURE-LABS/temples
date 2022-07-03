@@ -246,7 +246,7 @@ for t in range(0, len(templeslistsck)):
             #lookingaddress = la[-2].strip()
             print (la)
             lla = len(la)
-            print ('length of Span ::: -------------- ::', lla)
+          
             res = len(re.findall(r'\w+', str(la)))
             
             print ('StringLength', res, '---------')
@@ -255,13 +255,13 @@ for t in range(0, len(templeslistsck)):
             conditions = [res >= 1, lla >= 8]
             lookingaddress = ''
             if (conditions):
-                    if (len(la) == 8):
-                        lookingaddress = la[1]
-                    if (len(la) == 5):
-                        lookingaddress = la[3]
-                
-                    if not lookingaddress:
-                        lookingaddress = la[2]
+                print ('length of TAG :', lla, ', TAG Output :', la)
+                if (lla == 3):
+                    lookingaddress = la[1]
+                if (lla == 5):
+                    lookingaddress = la[3]
+                if not lookingaddress:
+                    lookingaddress = la[2]
 
             if(lookingaddress):
                 addtemple(lookingaddress, mys)
