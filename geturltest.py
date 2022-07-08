@@ -46,20 +46,16 @@ Application_Folder = ("{}{}{}{}{}{}{}{}{}".format(rootpath,N,client_name,N,Proje
 Google_application = ("{}{}{}".format(Application_Folder,N,applicationstatename))
 #------------------------------------------------------------------------------------
 path = Path(Google_application)
-if path.is_file():
-    pi="\'Fetching the Google URL : \' :"
-    p = ("{} {}".format(pi,Google_application))
-    print(p)
-else:
+
+if not path.is_file():
     pi="\'Unable to find dirctory!\' :"
     p = ("{} {}".format(pi,Google_application))
     print(p)
     exit(1)
 
-
 geturl = check_output([sys.executable, Google_application], universal_newlines=True)
 
 print(geturl)
 
-webbrowser.open_new_tab(geturl)
+#webbrowser.open_new_tab(geturl)
                     
